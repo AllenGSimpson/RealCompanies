@@ -198,4 +198,6 @@ l_english:
  company_ungarische_allgemeine_elektrizitatsgesellschaft: "Ungarische Allgemeine Elektrizitäts‑Gesellschaft"
  company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag: "Steirische Wasserkraft‑ u. Elektrizitäts‑Gesellschaft (STEWAG)"
  company_ottoman_electric_company: "Ottoman Electric Company"
- company_societe_delectroottomane: "Société d’Électro‑Ottomane"
+company_societe_delectroottomane: "Société d’Électro‑Ottomane"
+ company_basic_electrics_dynamic_name_tag_singular: "Electric Power"
+ company_basic_electrics_dynamic_name_tag_plural: "Electric Power"

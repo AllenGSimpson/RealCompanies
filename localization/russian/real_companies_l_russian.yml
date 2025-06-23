@@ -198,4 +198,6 @@ l_russian:
  company_ungarische_allgemeine_elektrizitatsgesellschaft: "Унгарище Аллгемеине Електризитацгеселлщафт"
  company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag: "Стеирище Вассеркрафт У. Електризитацгеселлщафт (Стеваг)"
  company_ottoman_electric_company: "Оттоман Електрик Компаны"
- company_societe_delectroottomane: "Сокиете Делектрооттомане"
+company_societe_delectroottomane: "Сокиете Делектрооттомане"
+ company_basic_electrics_dynamic_name_tag_singular: "электроэнергии"
+ company_basic_electrics_dynamic_name_tag_plural: "электроэнергия"
