@@ -166,22 +166,22 @@ Computing-Tabulating-Recording Company (IBM),United States,building_electrics_in
 International Paper,United States,building_paper_mills,building_power_plant,1898,Merger (17 mills),,
 Kellogg Company,United States,building_food_industry,,1906,Independent,,
 Lee Wilson & Company,United States,building_wheat_farm; building_cotton_plantation,building_logging_camp; building_railway,1900,Independent,,
-Pennsylvania Railroad,United States,Railway,Steel rails; coal mining,1846,Independent,,
-Procter & Gamble,United States,Soap & detergent,Candles; food oils,1837,Independent,,
-Pullman Company,United States,Rail sleeping‑cars,Company town; carriage works,1867,Independent,,
-Remington Arms,United States,Arms manufacture,Typewriters; sewing‑machines,1816,Independent,,
-Standard Oil Company,United States,Oil refining,Oil rigs; pipelines; chemicals,1870,Independent,,
-Swift & Company,United States,Meatpacking,Refrigerated rail; fertilizer,1878,Independent,,
-United Fruit Company,United States,Banana plantations; sugar plantations,Railway,1899,Merger (Boston Fruit Co + minor lines),,
-United States Steel,United States,Steel mills,Ore shipping; railways,1901,Merger (Carnegie + Federal Steel + others),,
-Westinghouse Electric,United States,Electrical equipment,Turbines; locomotives,1886,Independent,,
+Pennsylvania Railroad,United States,building_railway,building_coal_mine,1846,Independent,,
+Procter & Gamble,United States,building_chemical_plants,building_food_industry,1837,Independent,,
+Pullman Company,United States,building_motor_industry,building_automotive_industry,1867,Independent,,
+Remington Arms,United States,building_arms_industry,building_tooling_workshops,1816,Independent,,
+Standard Oil Company,United States,building_oil_rig,building_chemical_plants,1870,Independent,,
+Swift & Company,United States,building_food_industry,building_chemical_plants,1878,Independent,,
+United Fruit Company,United States,building_banana_plantation; building_sugar_plantation,building_railway,1899,Merger (Boston Fruit Co + minor lines),,
+United States Steel,United States,building_steel_mills,building_railway,1901,Merger (Carnegie + Federal Steel + others),,
+Westinghouse Electric,United States,building_electrics_industry,building_motor_industry,1886,Independent,,
 Weyerhaeuser,United States,building_logging_camp,building_paper_mills; building_railway,1900,Independent,,
-William Cramp & Sons,United States,Shipyards (military & civilian),Motor industries; artillery foundries,1825,Independent,,
+William Cramp & Sons,United States,building_military_shipyards; building_shipyards,building_motor_industry; building_artillery_foundries,1825,Independent,,
 Hammermill Paper Company,United States,building_paper_mills,building_logging_camp,1898,Independent,,
 Champion Coated Paper Co.,United States,building_paper_mills,building_logging_camp,1893,Independent,,
 #Beer Companies, - WIP ignore for now
 #Kaitakushi Beer Co. (Sapporo Beer Co.), Japan, Beer, rice farms; wheat farms; rye farms, 1876, state backed; Renamed in 1886
-#Asahi Beer Co. (Osaka Beer Co. ), Japan, Beer, rice farms; wheat farms; rye farms, 1889, Independent; Renamed in 1893
+#Asahi Beer Co. (Osaka Beer Co. ), Japan, Beer, rice farms; wheat farms; rye farms, 1889, ependent; Renamed in 1893
 #Kirin Beer Co., Japan, Beer, rice farms; wheat farms; rye farms, 1885, Independent
 #Nippon Beer Co., Japan, Beer, rice farms; wheat farms; rye farms, 1887, Independent
 #Teikoku Beer Co., Japan, Beer, rice farms; wheat farms; rye farms, 1906, Merger of Kaitakushi; Osaka; Kirin; and Nippon Beer
