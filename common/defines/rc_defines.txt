@@ -1,0 +1,49 @@
+NEconomy = {
+	COMPANY_OVER_LIMIT_BONUS_PENALTY_MIN = 0.33			# If the number of companies in the country exceeds the limit, all company bonuses get penalty. The penalty is scaled proportionally to the limit (exceeding the limit by 100% reduces bonuses by 100%) and the minimum value is this
+	COMPANY_PRODUCTIVITY_RATIO_HIGH_THRESHOLD = 1.25	# Companies whose productivity exceeds this factor of the global average will be considered high-productivity companies
+	COMPANY_PRODUCTIVITY_RATIO_LOW_THRESHOLD = 0.75		# Companies whose productivity is below this factor of the global average will be considered low-productivity companies
+	COMPANY_PRODUCTIVITY_ABSOLUTE_HIGH_THRESHOLD = 25	# Companies whose productivity exceeds this amount will ALWAYS be considered high-productivity companies
+	COMPANY_PRODUCTIVITY_ABSOLUTE_LOW_THRESHOLD = 5		# Companies whose productivity is below this amount will ALWAYS be considered low-productivity companies
+	COMPANY_PROSPERITY_MAX = 100						# Company prosperity cannot be higher than this
+	COMPANY_PROSPERITY_BONUS_ACTIVATION_THRESHOLD = 100		# At this amount of prosperity, a company will start providing its prosperity bonuses
+	COMPANY_PROSPERITY_BONUS_DEACTIVATION_THRESHOLD = 75	# At this amount of prosperity, a company will stop providing its prosperity bonuses
+	COMPANY_PROSPERITY_PRODUCTIVITY_MULTIPLIER = 50			# Companies gain this much target prosperity from productivity of buildings compared to global average (defined value is at exactly average)
+	COMPANY_PROSPERITY_PRODUCTIVITY_MAX = 100				# Max target prosperity from productivity
+	COMPANY_PROSPERITY_EMPLOYED_LEVELS_MULTIPLIER = 1			# Companies gain this much target prosperity from number of fully employed building levels
+	COMPANY_PROSPERITY_EMPLOYED_LEVELS_MAX = 50					# Max target prosperity from fully employed building levels
+	COMPANY_PROSPERITY_POPULARITY_MULTIPLIER = 0.2				# Companies gain this much target prosperity, scaled by the popularity of its executive
+	COMPANY_PROSPERITY_POPULARITY_MAX = 20						# Max target prosperity from popularity
+	COMPANY_PROSPERITY_POPULARITY_MIN = -20						# Min target prosperity from popularity
+	COMPANY_PROSPERITY_WEEKLY_INCREASE_BASE = 0.2				# Base amount of prosperity increase towards target value each week
+	COMPANY_PROSPERITY_WEEKLY_INCREASE_SCALED = 0.04			# Prosperity increase towards target value each week, for each fully employed building level the company has
+	COMPANY_PROSPERITY_WEEKLY_INCREASE_SCALED_MAX = 0.8			# Max value for weekly prosperity increase from employed levels
+	COMPANY_PROSPERITY_WEEKLY_DECREASE_BASE = -1.0				# Base amount of prosperity decrease towards target value each week
+	COMPANY_PROSPERITY_WEEKLY_DECREASE_SCALED = 0.02			# Prosperity decrease towards target value each week, for each fully employed building level the company has
+	COMPANY_PROSPERITY_WEEKLY_DECREASE_SCALED_MAX = 0.8			# Min value for weekly prosperity decrease from employed levels
+	COMPANY_COUNTRY_CONSTRUCTION_BONUS_MULT = 0.2				# Multiplier for company countries
+	NATIONALIZATION_PER_LEVEL_COST = 500				# How much it costs to nationalize one level of a building per construction point
+	PRIVATIZATION_PER_LEVEL_COST = 250					# How much it costs to privatize one level of a building per construction point
+	MIN_FAKE_CONSTRUCTION_COST = 100					# Min construction cost for the matters of nationalization and privatization
+	COMPANY_COUNT_OF_REGIONAL_HQ_TYPES = 3				# Count of building types in state reserved for flavored companies
+
+	COMPANY_MINIMUM_LEVELS_PER_HQ = 1							# Minimum building levels per HQ required to establish or maintain a company
+	BASE_REGIONAL_HQS = 1								# Base level of regional HQs available to a company after granted investment charter
+	LEVELS_PER_REGIONAL_HQ = 50							# How many levels company needs to aquire to get a new regional HQ
+	COMPANY_ON_ESTABLISH_COOLDOWN_MONTHS = 60			# Cooldown in months after establishing a company before you can disband it
+	COMPANY_ON_DISBAND_COOLDOWN_MONTHS = 48				# Cooldown in months after disbanding a company before you can re-establish it
+
+	BUILDING_LEVEL_BUREAUCRACY_COST = 1					# Cost of owning one level of the goverment building
+	COLLECTIVIZATION_DEBT_RATIO = 0.5					# Ratio of the country max debt can be used for collectivizing
+	MIN_COLLECTIVIZATION_BUDGET = 1000000				# Min size of a collectivizing budget
+	DYNAMIC_INDUSTRY_CHARTER = no						# Do we want to use dynamic industry charter instead of scripted ones
+	COMPANY_INFLUENCE_LEVEL_STEPS = { 10 25 50 100 250 500 }
+	COMPANY_CHARTER_AUTHORITY_COST = 10				# Cost of establishing a company charter
+
+	# Currently only used in loc, not logic
+	HARVEST_CONDITION_MIN_INTENSITY = 0.0					# Lowest intensity value a harvest condition can roll ( 0 <= this < max)
+	HARVEST_CONDITION_MAX_INTENSITY = 9.0					# Highest intensity value a harvest condition can roll (min < this)
+
+	COMPANY_MONOPOLY_COOLDOWN_MONTHS = 60				# Cooldown in months after establishing a companies monopoly before you can revoke its monopoly
+	COUNTRY_MONOPOLY_MAX_COUNT = 45						# Maximum number of country monopolies a country can have
+	COUNTRY_MONOPOLY_AUTHORITY_COST = 10				# Cost of establishing a country monopoly
+}
