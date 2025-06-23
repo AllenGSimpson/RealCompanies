@@ -83,6 +83,21 @@ RU_EXTRA = {
     'moscow_electric_lighting_company': 'Московское общество электрического освещения',
 }
 
+# simple Latin to Cyrillic transliteration for missing Russian names
+RU_DIGRAPHS = [
+    ('shch','щ'),('sch','щ'),('yo','ё'),('yu','ю'),('ya','я'),('zh','ж'),('kh','х'),('ts','ц'),('ch','ч'),('sh','ш')
+]
+RU_SINGLE = str.maketrans({
+    'a':'а','b':'б','v':'в','g':'г','d':'д','e':'е','z':'з','i':'и','j':'й','k':'к','l':'л','m':'м','n':'н','o':'о','p':'п','r':'р','s':'с','t':'т','u':'у','f':'ф','h':'х','c':'ц','y':'ы','w':'в','q':'к','x':'кс'
+})
+
+def translit_ru(text:str)->str:
+    t=unicodedata.normalize('NFKD', text).encode('ascii','ignore').decode('ascii').lower()
+    for src,dst in RU_DIGRAPHS:
+        t=t.replace(src,dst)
+    t=t.translate(RU_SINGLE)
+    return t.title()
+
 def get_translation(slug,name,lang):
     key=f'company_{slug}'
     # prefer vanilla translation if available
@@ -94,6 +109,8 @@ def get_translation(slug,name,lang):
         return JP_EXTRA[slug]
     if lang == 'russian' and slug in RU_EXTRA:
         return RU_EXTRA[slug]
+    if lang == 'russian':
+        return translit_ru(name)
     return name
 
 CSV_PATH = Path('companies.csv')
