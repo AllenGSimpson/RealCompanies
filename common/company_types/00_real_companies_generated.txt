@@ -13,6 +13,7 @@ company_skoda_works = {
         building_motor_industry
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # ČKD-Praha
@@ -29,6 +30,7 @@ company_ckd_praha = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Österreichische Lloyd
@@ -41,6 +43,7 @@ company_osterreichische_lloyd = {
         building_port
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Österreichische Waffenfabrik-Gesellschaft
@@ -58,6 +61,7 @@ company_osterreichische_waffenfabrik_gesellschaft = {
     extension_building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Austro-Daimler
@@ -70,6 +74,7 @@ company_austro_daimler = {
         building_motor_industry
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Kaiserlich-königlich Staatsbahnen
@@ -81,6 +86,7 @@ company_kaiserlich_koniglich_staatsbahnen = {
     building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Creditanstalt
@@ -92,6 +98,7 @@ company_creditanstalt = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Fegyver-és Gépgyár
@@ -106,6 +113,7 @@ company_fegyver_es_gepgyar = {
     extension_building_types = {
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Galizisch-Karpathische Petroleum Aktien-Gesellschaft
@@ -122,6 +130,7 @@ company_galizisch_karpathische_petroleum_aktien_gesellschaft = {
         building_power_plant
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Ganz Művek
@@ -138,6 +147,7 @@ company_ganz_muvek = {
     extension_building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Gebrüder Thonet
@@ -148,6 +158,9 @@ company_gebruder_thonet = {
     flavored_company = yes
     building_types = {
         building_furniture_manufacturies
+    }
+    possible_prestige_goods = {
+        prestige_good_bentwood_furniture
     }
     extension_building_types = {
         building_logging_camp
@@ -167,6 +180,7 @@ company_glasfabrik_ludwig_moser_and_sohne = {
         building_lead_mine
         building_logging_camp
     }
+    # TODO: Add prestige goods
 }
 
 # MÁVAG
@@ -185,6 +199,7 @@ company_mavag = {
         building_coal_mine
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Manfréd Weiss Steel & Metal Works
@@ -201,6 +216,7 @@ company_manfred_weiss_steel_and_metal_works = {
     extension_building_types = {
         building_iron_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Österreichische Waffenfabriksgesellschaft
@@ -212,6 +228,7 @@ company_osterreichische_waffenfabriksgesellschaft = {
     building_types = {
         building_arms_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Werndl & Co. Waffenfabrik und Sägemühle
@@ -224,6 +241,7 @@ company_werndl_and_co_waffenfabrik_und_sagemuhle = {
         building_arms_industry
         building_logging_camp
     }
+    # TODO: Add prestige goods
 }
 
 # Air Liquide
@@ -238,6 +256,7 @@ company_air_liquide = {
     extension_building_types = {
         building_oil_rig
     }
+    # TODO: Add prestige goods
 }
 
 # Chantiers de l'Atlantique
@@ -254,6 +273,7 @@ company_chantiers_de_l_atlantique = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Citroën
@@ -266,6 +286,7 @@ company_citroen = {
         building_automotive_industry
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Compagnie des mines d'Anzin
@@ -282,6 +303,7 @@ company_compagnie_des_mines_d_anzin = {
         building_lead_mine
         building_sulfur_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Confédération générale des vignerons
@@ -296,6 +318,7 @@ company_confederation_generale_des_vignerons = {
     extension_building_types = {
         building_food_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Compagnie Générale Transatlantique
@@ -310,6 +333,7 @@ company_compagnie_generale_transatlantique = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Compagnie Internationale des Wagons-Lits
@@ -324,6 +348,7 @@ company_compagnie_internationale_des_wagons_lits = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Crédit Lyonnais
@@ -335,6 +360,7 @@ company_credit_lyonnais = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Dollfus-Mieg et Compagnie
@@ -352,6 +378,7 @@ company_dollfus_mieg_et_compagnie = {
         building_cotton_plantation
         building_silk_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Forges et Chantiers de la Méditerranée
@@ -370,6 +397,7 @@ company_forges_et_chantiers_de_la_mediterranee = {
         building_iron_mine
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # L'Oréal
@@ -384,6 +412,7 @@ company_l_oreal = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Maison Worth
@@ -394,6 +423,9 @@ company_maison_worth = {
     flavored_company = yes
     building_types = {
         building_textile_mills
+    }
+    possible_prestige_goods = {
+        prestige_good_haute_couture
     }
     extension_building_types = {
         building_dye_plantation
@@ -418,6 +450,7 @@ company_manufacture_d_armes_de_saint_tienne = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Messageries Maritimes
@@ -432,6 +465,7 @@ company_messageries_maritimes = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Michelin
@@ -446,6 +480,7 @@ company_michelin = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Peugeot
@@ -461,6 +496,7 @@ company_peugeot = {
     extension_building_types = {
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Renault
@@ -473,6 +509,7 @@ company_renault = {
         building_automotive_industry
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Saint-Gobain
@@ -490,6 +527,7 @@ company_saint_gobain = {
         building_steel_mills
         building_explosives_factory
     }
+    # TODO: Add prestige goods
 }
 
 # Schneider & Cie
@@ -508,6 +546,7 @@ company_schneider_and_cie = {
         building_military_shipyards
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Société Générale
@@ -519,6 +558,7 @@ company_societe_generale = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Société Mokta El Hadid
@@ -534,6 +574,7 @@ company_societe_mokta_el_hadid = {
     extension_building_types = {
         building_lead_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Suez Canal Company
@@ -548,6 +589,7 @@ company_suez_canal_company = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Aussedat Rey
@@ -563,6 +605,7 @@ company_aussedat_rey = {
         building_logging_camp
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Allgemeine Elektricitäts-Gesellschaft
@@ -578,6 +621,7 @@ company_allgemeine_elektricitats_gesellschaft = {
         building_power_plant
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # AG Vulcan Stettin
@@ -593,6 +637,7 @@ company_ag_vulcan_stettin = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Allianz
@@ -604,6 +649,7 @@ company_allianz = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Badische Anilin-und Sodafabrik
@@ -620,6 +666,7 @@ company_badische_anilin_und_sodafabrik = {
         building_sulfur_mine
         building_iron_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Bayer
@@ -635,6 +682,7 @@ company_bayer = {
         building_synthetics_plants
         building_opium_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Benz & Cie
@@ -647,6 +695,7 @@ company_benz_and_cie = {
         building_automotive_industry
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Blohm & Voss
@@ -662,6 +711,7 @@ company_blohm_and_voss = {
     extension_building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Bayerische Motoren Werke
@@ -674,6 +724,7 @@ company_bayerische_motoren_werke = {
         building_automotive_industry
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Carl Zeiss
@@ -685,6 +736,7 @@ company_carl_zeiss = {
     building_types = {
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Daimler Motoren-Gesellschaft
@@ -697,6 +749,7 @@ company_daimler_motoren_gesellschaft = {
         building_automotive_industry
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Deutsche Bank
@@ -708,6 +761,7 @@ company_deutsche_bank = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Friedrich Krupp AG
@@ -726,6 +780,7 @@ company_friedrich_krupp_ag = {
         building_iron_mine
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Hamburg-Amerikanische Packetfahrt-Actien-Gesellschaft
@@ -740,6 +795,7 @@ company_hamburg_amerikanische_packetfahrt_actien_gesellschaft = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Interessen-Gemeinschaft (IG) Farben
@@ -759,6 +815,7 @@ company_interessen_gemeinschaft_ig_farben = {
         building_dye_plantation
         building_opium_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Königliche Porzellan-Manufaktur Meissen
@@ -769,6 +826,9 @@ company_konigliche_porzellan_manufaktur_meissen = {
     flavored_company = yes
     building_types = {
         building_glassworks
+    }
+    possible_prestige_goods = {
+        prestige_good_meissen_porcelain
     }
     extension_building_types = {
         building_lead_mine
@@ -788,6 +848,7 @@ company_mannesmann = {
         building_iron_mine
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Mercedes-Benz
@@ -800,6 +861,7 @@ company_mercedes_benz = {
         building_automotive_industry
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Norddeutscher Lloyd
@@ -814,6 +876,7 @@ company_norddeutscher_lloyd = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Preußische Staatseisenbahnen
@@ -828,6 +891,7 @@ company_preuische_staatseisenbahnen = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Rheinmetall
@@ -848,6 +912,7 @@ company_rheinmetall = {
         building_sulfur_mine
         building_lead_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Schichau-Werke
@@ -865,6 +930,7 @@ company_schichau_werke = {
         building_railway
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Siemens & Halske
@@ -879,6 +945,7 @@ company_siemens_and_halske = {
     extension_building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Thyssen
@@ -895,6 +962,7 @@ company_thyssen = {
         building_iron_mine
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Zanders Feinpapiere AG
@@ -909,6 +977,7 @@ company_zanders_feinpapiere_ag = {
     extension_building_types = {
         building_logging_camp
     }
+    # TODO: Add prestige goods
 }
 
 # Acciaierie di Terni
@@ -925,6 +994,7 @@ company_acciaierie_di_terni = {
         building_iron_mine
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Anglo-Sicilian Sulphur Company Ltd.
@@ -940,6 +1010,7 @@ company_anglo_sicilian_sulphur_company_ltd = {
         building_port
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Gio. Ansaldo & C.
@@ -957,6 +1028,7 @@ company_gio_ansaldo_and_c = {
         building_artillery_foundries
         building_munition_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Barilla
@@ -971,6 +1043,7 @@ company_barilla = {
     extension_building_types = {
         building_wheat_farm
     }
+    # TODO: Add prestige goods
 }
 
 # Beretta
@@ -982,6 +1055,7 @@ company_beretta = {
     building_types = {
         building_arms_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Breda
@@ -997,6 +1071,7 @@ company_breda = {
         building_artillery_foundries
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Campari
@@ -1008,6 +1083,7 @@ company_campari = {
     building_types = {
         building_food_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Cantieri Riuniti dell'Adriatico
@@ -1023,6 +1099,7 @@ company_cantieri_riuniti_dell_adriatico = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # FIAT
@@ -1034,6 +1111,9 @@ company_fiat = {
     building_types = {
         building_automotive_industry
         building_motor_industry
+    }
+    possible_prestige_goods = {
+        prestige_good_turin_automobiles
     }
 }
 
@@ -1049,6 +1129,7 @@ company_g_ricordi_and_c = {
     extension_building_types = {
         building_vineyard_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Acciaierie d'Italia S.p.A. (Ilva)
@@ -1065,6 +1146,7 @@ company_acciaierie_d_italia_s_p_a_ilva = {
         building_iron_mine
         building_shipyards
     }
+    # TODO: Add prestige goods
 }
 
 # Mantero Serra
@@ -1080,6 +1162,7 @@ company_mantero_serra = {
     extension_building_types = {
         building_cotton_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Montecatini
@@ -1094,6 +1177,7 @@ company_montecatini = {
     extension_building_types = {
         building_synthetics_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Olivetti
@@ -1108,6 +1192,7 @@ company_olivetti = {
     extension_building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Pirelli
@@ -1122,6 +1207,7 @@ company_pirelli = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Stabilimento Tecnico Triestino
@@ -1138,6 +1224,7 @@ company_stabilimento_tecnico_triestino = {
         building_steel_mills
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Asahi Glass Company
@@ -1153,6 +1240,7 @@ company_asahi_glass_company = {
         building_chemical_plants
         building_lead_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Furukawa Zaibatsu
@@ -1168,6 +1256,7 @@ company_furukawa_zaibatsu = {
     extension_building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Ishikawajima Shipyard
@@ -1183,6 +1272,7 @@ company_ishikawajima_shipyard = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Japan Steel Works
@@ -1199,6 +1289,7 @@ company_japan_steel_works = {
         building_iron_mine
         building_arms_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Kawasaki Dockyard
@@ -1215,6 +1306,7 @@ company_kawasaki_dockyard = {
         building_steel_mills
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Kinkōzan Sōbei
@@ -1225,6 +1317,9 @@ company_kinkozan_sobei = {
     flavored_company = yes
     building_types = {
         building_glassworks
+    }
+    possible_prestige_goods = {
+        prestige_good_satsuma_ware
     }
     extension_building_types = {
         building_logging_camp
@@ -1251,6 +1346,7 @@ company_mitsubishi_zaibatsu = {
         building_chemical_plants
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Mitsui Zaibatsu
@@ -1272,6 +1368,7 @@ company_mitsui_zaibatsu = {
         building_coal_mine
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Nippon Denki Kabushiki
@@ -1284,6 +1381,7 @@ company_nippon_denki_kabushiki = {
         building_electrics_industry
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Nippon Kōgaku Kōgyō (Nikk?)
@@ -1296,6 +1394,7 @@ company_nippon_kogaku_kogyo_nikk = {
         building_electrics_industry
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Nippon Yusen Kaisha
@@ -1310,6 +1409,7 @@ company_nippon_yusen_kaisha = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Oji Paper
@@ -1324,6 +1424,7 @@ company_oji_paper = {
     extension_building_types = {
         building_logging_camp
     }
+    # TODO: Add prestige goods
 }
 
 # Showa Denko
@@ -1339,6 +1440,7 @@ company_showa_denko = {
         building_synthetics_plants
         building_oil_rig
     }
+    # TODO: Add prestige goods
 }
 
 # Minamimanshū Tetsudō
@@ -1357,6 +1459,7 @@ company_minamimanshu_tetsudo = {
         building_food_industry
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Sumitomo Zaibatsu
@@ -1374,6 +1477,7 @@ company_sumitomo_zaibatsu = {
         building_electrics_industry
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Toyota Jidō Shokki KK
@@ -1386,6 +1490,7 @@ company_toyota_jido_shokki_kk = {
         building_textile_mills
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Toyota Zaibatsu
@@ -1403,6 +1508,7 @@ company_toyota_zaibatsu = {
     extension_building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Yasuda Zaibatsu
@@ -1417,6 +1523,7 @@ company_yasuda_zaibatsu = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Yawata Steel Works
@@ -1433,6 +1540,7 @@ company_yawata_steel_works = {
         building_iron_mine
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Osmanlı Anonim Elektrik Şirketi
@@ -1444,6 +1552,7 @@ company_osmanl_anonim_elektrik_sirketi = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Allatini Mills
@@ -1462,6 +1571,7 @@ company_allatini_mills = {
         building_rye_farm
         building_maize_farm
     }
+    # TODO: Add prestige goods
 }
 
 # Anatolian Railway Company
@@ -1476,6 +1586,7 @@ company_anatolian_railway_company = {
     extension_building_types = {
         building_port
     }
+    # TODO: Add prestige goods
 }
 
 # Chemins de fer Orientaux
@@ -1490,6 +1601,7 @@ company_chemins_de_fer_orientaux = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Ottoman American Line
@@ -1504,6 +1616,7 @@ company_ottoman_american_line = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Osmanlı Bankası
@@ -1515,6 +1628,7 @@ company_osmanl_bankas = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Müşterek Menfaalı Tütün Rejisi
@@ -1529,6 +1643,7 @@ company_musterek_menfaal_tutun_rejisi = {
     extension_building_types = {
         building_opium_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Regie Co‑intéressée des Tabacs
@@ -1543,6 +1658,7 @@ company_regie_cointeressee_des_tabacs = {
     extension_building_types = {
         building_opium_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # Tersâne‑i Âmire
@@ -1561,6 +1677,7 @@ company_tersanei_amire = {
         building_arms_industry
         building_munition_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Turkish Petroleum Company
@@ -1575,6 +1692,7 @@ company_turkish_petroleum_company = {
     extension_building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Zeytinburnu Foundry
@@ -1591,6 +1709,7 @@ company_zeytinburnu_foundry = {
         building_coal_mine
         building_artillery_foundries
     }
+    # TODO: Add prestige goods
 }
 
 # Baltic Shipyard
@@ -1603,6 +1722,7 @@ company_baltic_shipyard = {
         building_military_shipyards
         building_shipyards
     }
+    # TODO: Add prestige goods
 }
 
 # Branobel
@@ -1613,6 +1733,9 @@ company_branobel = {
     flavored_company = yes
     building_types = {
         building_oil_rig
+    }
+    possible_prestige_goods = {
+        prestige_good_baku_oil
     }
     extension_building_types = {
         building_power_plant
@@ -1631,6 +1754,7 @@ company_dobrolyot = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Fabergé
@@ -1646,6 +1770,7 @@ company_faberge = {
     extension_building_types = {
         building_furniture_manufacturies
     }
+    # TODO: Add prestige goods
 }
 
 # Izhevsk Arms Plant
@@ -1662,6 +1787,7 @@ company_izhevsk_arms_plant = {
     extension_building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Moscow Irrigation Company
@@ -1679,6 +1805,7 @@ company_moscow_irrigation_company = {
         building_wheat_farm
         building_opium_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # New Russia Company Ltd.
@@ -1695,6 +1822,7 @@ company_new_russia_company_ltd = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Obukhov Steel Works
@@ -1711,6 +1839,7 @@ company_obukhov_steel_works = {
     extension_building_types = {
         building_military_shipyards
     }
+    # TODO: Add prestige goods
 }
 
 # Putilov Works
@@ -1726,6 +1855,7 @@ company_putilov_works = {
     extension_building_types = {
         building_artillery_foundries
     }
+    # TODO: Add prestige goods
 }
 
 # Russian Steam Navigation Company (ROPiT)
@@ -1741,6 +1871,7 @@ company_russian_steam_navigation_company_ropit = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Russian-American Company
@@ -1754,6 +1885,9 @@ company_russian_american_company = {
         building_whaling_station
         building_port
         building_trade_center
+    }
+    possible_prestige_goods = {
+        prestige_good_generic_meat
     }
     extension_building_types = {
         building_fishing_wharf
@@ -1774,6 +1908,7 @@ company_russo_baltic_wagon_works = {
     extension_building_types = {
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Savva Morozov & Sons
@@ -1788,6 +1923,7 @@ company_savva_morozov_and_sons = {
     extension_building_types = {
         building_cotton_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # State Bank of The Russian Empire
@@ -1799,6 +1935,7 @@ company_state_bank_of_the_russian_empire = {
     building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Tula Arms Plant
@@ -1814,6 +1951,7 @@ company_tula_arms_plant = {
     extension_building_types = {
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # PA Smirnov
@@ -1830,6 +1968,7 @@ company_pa_smirnov = {
         building_vineyard_plantation
         building_wheat_farm
     }
+    # TODO: Add prestige goods
 }
 
 # Armstrong Whitworth
@@ -1841,6 +1980,9 @@ company_armstrong_whitworth = {
     building_types = {
         building_artillery_foundries
         building_military_shipyards
+    }
+    possible_prestige_goods = {
+        prestige_good_armstrong_ships
     }
     extension_building_types = {
         building_shipyards
@@ -1861,6 +2003,7 @@ company_arthur_guinness_son_and_co_ltd = {
     extension_building_types = {
         building_wheat_farm
     }
+    # TODO: Add prestige goods
 }
 
 # Birmingham Small Arms (BSA)
@@ -1876,6 +2019,7 @@ company_birmingham_small_arms_bsa = {
     extension_building_types = {
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Bolckow Vaughan & Co.
@@ -1892,6 +2036,7 @@ company_bolckow_vaughan_and_co = {
     extension_building_types = {
         building_lead_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Cunard Line
@@ -1906,6 +2051,7 @@ company_cunard_line = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # de Havilland Aircraft
@@ -1920,6 +2066,7 @@ company_de_havilland_aircraft = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Great Western Railway
@@ -1936,6 +2083,7 @@ company_great_western_railway = {
         building_coal_mine
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Harland & Wolff
@@ -1952,6 +2100,7 @@ company_harland_and_wolff = {
         building_steel_mills
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Imperial Chemical Industries
@@ -1967,6 +2116,7 @@ company_imperial_chemical_industries = {
         building_explosives_factory
         building_synthetics_plants
     }
+    # TODO: Add prestige goods
 }
 
 # J&P Coats
@@ -1982,6 +2132,7 @@ company_jandp_coats = {
         building_cotton_plantation
         building_silk_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # John Brown & Co.
@@ -1998,6 +2149,7 @@ company_john_brown_and_co = {
         building_steel_mills
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Maple & Co.
@@ -2008,6 +2160,9 @@ company_maple_and_co = {
     flavored_company = yes
     building_types = {
         building_furniture_manufacturies
+    }
+    possible_prestige_goods = {
+        prestige_good_english_upholstery
     }
     extension_building_types = {
         building_logging_camp
@@ -2026,6 +2181,7 @@ company_pando_steam_navigation = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Rolls‑Royce
@@ -2040,6 +2196,7 @@ company_rollsroyce = {
     extension_building_types = {
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Royal Small Arms Factory
@@ -2052,6 +2209,7 @@ company_royal_small_arms_factory = {
         building_arms_industry
         building_munition_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Shell Transport & Trading
@@ -2068,6 +2226,7 @@ company_shell_transport_and_trading = {
         building_port
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Vickers Ltd.
@@ -2086,6 +2245,7 @@ company_vickers_ltd = {
         building_shipyards
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Webley & Scott
@@ -2097,6 +2257,7 @@ company_webley_and_scott = {
     building_types = {
         building_arms_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Anaconda Copper Mining
@@ -2112,6 +2273,7 @@ company_anaconda_copper_mining = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Armour & Company
@@ -2126,6 +2288,7 @@ company_armour_and_company = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Bell Telephone Company
@@ -2137,6 +2300,7 @@ company_bell_telephone_company = {
     building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Baltimore & Ohio Railroad
@@ -2151,6 +2315,7 @@ company_baltimore_and_ohio_railroad = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Boeing Airplane Company
@@ -2166,6 +2331,7 @@ company_boeing_airplane_company = {
         building_logging_camp
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Cargill
@@ -2185,6 +2351,7 @@ company_cargill = {
         building_trade_center
         building_port
     }
+    # TODO: Add prestige goods
 }
 
 # Carnegie Steel Company
@@ -2201,6 +2368,7 @@ company_carnegie_steel_company = {
         building_iron_mine
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Jones and Laughlin Steel Company
@@ -2216,6 +2384,7 @@ company_jones_and_laughlin_steel_company = {
     extension_building_types = {
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Pittsburgh Bessemer Steel Company
@@ -2227,6 +2396,7 @@ company_pittsburgh_bessemer_steel_company = {
     building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Illinois Steel Company (Federal Steel)
@@ -2238,6 +2408,7 @@ company_illinois_steel_company_federal_steel = {
     building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # National Steel Company
@@ -2249,6 +2420,7 @@ company_national_steel_company = {
     building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Weirton Steel Corporation
@@ -2260,6 +2432,7 @@ company_weirton_steel_corporation = {
     building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # National Steel Corporation
@@ -2271,6 +2444,7 @@ company_national_steel_corporation = {
     building_types = {
         building_steel_mills
     }
+    # TODO: Add prestige goods
 }
 
 # Caterpillar
@@ -2287,6 +2461,7 @@ company_caterpillar = {
         building_steel_mills
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # Colt's Patent Firearms Manufacturing Company
@@ -2298,6 +2473,7 @@ company_colt_s_patent_firearms_manufacturing_company = {
     building_types = {
         building_arms_industry
     }
+    # TODO: Add prestige goods
 }
 
 # DuPont de Nemours, Inc
@@ -2313,6 +2489,7 @@ company_dupont_de_nemours_inc = {
     extension_building_types = {
         building_munition_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Ford Motor Company
@@ -2328,6 +2505,7 @@ company_ford_motor_company = {
         building_steel_mills
         building_rubber_plantation
     }
+    # TODO: Add prestige goods
 }
 
 # General Electric
@@ -2338,6 +2516,9 @@ company_general_electric = {
     flavored_company = yes
     building_types = {
         building_electrics_industry
+    }
+    possible_prestige_goods = {
+        prestige_good_radiola_radios
     }
     extension_building_types = {
         building_trade_center
@@ -2357,6 +2538,7 @@ company_general_mills = {
     extension_building_types = {
         building_trade_center
     }
+    # TODO: Add prestige goods
 }
 
 # General Motors
@@ -2371,6 +2553,7 @@ company_general_motors = {
     extension_building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Computing-Tabulating-Recording Company (IBM)
@@ -2382,6 +2565,7 @@ company_computing_tabulating_recording_company_ibm = {
     building_types = {
         building_electrics_industry
     }
+    # TODO: Add prestige goods
 }
 
 # International Paper
@@ -2396,6 +2580,7 @@ company_international_paper = {
     extension_building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Kellogg Company
@@ -2407,6 +2592,7 @@ company_kellogg_company = {
     building_types = {
         building_food_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Lee Wilson & Company
@@ -2423,6 +2609,7 @@ company_lee_wilson_and_company = {
         building_logging_camp
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Pennsylvania Railroad
@@ -2437,6 +2624,7 @@ company_pennsylvania_railroad = {
     extension_building_types = {
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # Procter & Gamble
@@ -2451,6 +2639,7 @@ company_procter_and_gamble = {
     extension_building_types = {
         building_food_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Pullman Company
@@ -2465,6 +2654,7 @@ company_pullman_company = {
     extension_building_types = {
         building_automotive_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Remington Arms
@@ -2479,6 +2669,7 @@ company_remington_arms = {
     extension_building_types = {
         building_tooling_workshops
     }
+    # TODO: Add prestige goods
 }
 
 # Standard Oil Company
@@ -2493,6 +2684,7 @@ company_standard_oil_company = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # Swift & Company
@@ -2507,6 +2699,7 @@ company_swift_and_company = {
     extension_building_types = {
         building_chemical_plants
     }
+    # TODO: Add prestige goods
 }
 
 # United Fruit Company
@@ -2522,6 +2715,7 @@ company_united_fruit_company = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # United States Steel
@@ -2536,6 +2730,7 @@ company_united_states_steel = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Westinghouse Electric
@@ -2550,6 +2745,7 @@ company_westinghouse_electric = {
     extension_building_types = {
         building_motor_industry
     }
+    # TODO: Add prestige goods
 }
 
 # Weyerhaeuser
@@ -2565,6 +2761,7 @@ company_weyerhaeuser = {
         building_paper_mills
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # William Cramp & Sons
@@ -2581,6 +2778,7 @@ company_william_cramp_and_sons = {
         building_motor_industry
         building_artillery_foundries
     }
+    # TODO: Add prestige goods
 }
 
 # Hammermill Paper Company
@@ -2595,6 +2793,7 @@ company_hammermill_paper_company = {
     extension_building_types = {
         building_logging_camp
     }
+    # TODO: Add prestige goods
 }
 
 # Champion Coated Paper Co.
@@ -2609,6 +2808,7 @@ company_champion_coated_paper_co = {
     extension_building_types = {
         building_logging_camp
     }
+    # TODO: Add prestige goods
 }
 
 # Consolidated Edison
@@ -2623,6 +2823,7 @@ company_consolidated_edison = {
     extension_building_types = {
         building_oil_rig
     }
+    # TODO: Add prestige goods
 }
 
 # Pacific Gas & Electric (PG&E)
@@ -2637,6 +2838,7 @@ company_pacific_gas_and_electric_pgande = {
     extension_building_types = {
         building_oil_rig
     }
+    # TODO: Add prestige goods
 }
 
 # Commonwealth Edison
@@ -2648,6 +2850,7 @@ company_commonwealth_edison = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Duke Power (Southern Power Co.)
@@ -2659,6 +2862,7 @@ company_duke_power_southern_power_co = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # London Power Company
@@ -2670,6 +2874,7 @@ company_london_power_company = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # North Eastern Electric Supply (NESCo)
@@ -2684,6 +2889,7 @@ company_north_eastern_electric_supply_nesco = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Compagnie Parisienne de Distribution d’Électricité (CPDE)
@@ -2695,6 +2901,7 @@ company_compagnie_parisienne_de_distribution_delectricite_cpde = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Société Lyonnaise des Forces Motrices du Rhône
@@ -2706,6 +2913,7 @@ company_societe_lyonnaise_des_forces_motrices_du_rhone = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # RWE (Rheinisch‑Westfälisches Elektrizitätswerk)
@@ -2720,6 +2928,7 @@ company_rwe_rheinischwestfalisches_elektrizitatswerk = {
     extension_building_types = {
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # PreussenElektra
@@ -2734,6 +2943,7 @@ company_preussenelektra = {
     extension_building_types = {
         building_coal_mine
     }
+    # TODO: Add prestige goods
 }
 
 # St Petersburg Electric Lighting Company
@@ -2745,6 +2955,7 @@ company_st_petersburg_electric_lighting_company = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Moscow Electric Lighting Company
@@ -2759,6 +2970,7 @@ company_moscow_electric_lighting_company = {
     extension_building_types = {
         building_railway
     }
+    # TODO: Add prestige goods
 }
 
 # Tokyo Electric Light Company
@@ -2770,6 +2982,7 @@ company_tokyo_electric_light_company = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Osaka Electric Light Company
@@ -2781,6 +2994,7 @@ company_osaka_electric_light_company = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Edison volta (Società Edison)
@@ -2792,6 +3006,7 @@ company_edison_volta_societa_edison = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # SADE (Società Adriatica di Elettricità)
@@ -2806,6 +3021,7 @@ company_sade_societa_adriatica_di_elettricita = {
     extension_building_types = {
         building_port
     }
+    # TODO: Add prestige goods
 }
 
 # Ungarische Allgemeine Elektrizitäts‑Gesellschaft
@@ -2817,6 +3033,7 @@ company_ungarische_allgemeine_elektrizitatsgesellschaft = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Steirische Wasserkraft‑ u. Elektrizitäts‑Gesellschaft (STEWAG)
@@ -2828,6 +3045,7 @@ company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Ottoman Electric Company
@@ -2839,6 +3057,7 @@ company_ottoman_electric_company = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
 # Société d’Électro‑Ottomane
@@ -2850,5 +3069,6 @@ company_societe_delectroottomane = {
     building_types = {
         building_power_plant
     }
+    # TODO: Add prestige goods
 }
 
