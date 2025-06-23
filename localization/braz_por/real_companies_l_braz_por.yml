@@ -201,3 +201,5 @@ l_braz_por:
 company_societe_delectroottomane: "Société d’Électro‑Ottomane"
  company_basic_electrics_dynamic_name_tag_singular: "Energia Elétrica"
  company_basic_electrics_dynamic_name_tag_plural: "Energia Elétrica"
+  modifier_rc_company_slot_bonus: "Additional Company Slot"
+  modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."
