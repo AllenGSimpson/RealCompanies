@@ -1,0 +1,2854 @@
+# Škoda Works
+company_skoda_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1859
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_arms_industry
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_motor_industry
+        building_automotive_industry
+    }
+}
+
+# ČKD-Praha
+company_ckd_praha = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1854
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+        building_power_plant
+        building_tooling_workshops
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Österreichische Lloyd
+company_osterreichische_lloyd = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1833
+    flavored_company = yes
+    building_types = {
+        building_port
+        building_trade_center
+    }
+}
+
+# Österreichische Waffenfabrik-Gesellschaft
+company_osterreichische_waffenfabrik_gesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1850
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_artillery_foundries
+        building_munition_plants
+        building_explosives_factory
+    }
+    extension_building_types = {
+        building_steel_mills
+    }
+}
+
+# Austro-Daimler
+company_austro_daimler = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1899
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+        building_automotive_industry
+    }
+}
+
+# Kaiserlich-königlich Staatsbahnen
+company_kaiserlich_koniglich_staatsbahnen = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1810
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+}
+
+# Creditanstalt
+company_creditanstalt = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1855
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Fegyver-és Gépgyár
+company_fegyver_es_gepgyar = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1891
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+    extension_building_types = {
+        building_tooling_workshops
+    }
+}
+
+# Galizisch-Karpathische Petroleum Aktien-Gesellschaft
+company_galizisch_karpathische_petroleum_aktien_gesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1885
+    flavored_company = yes
+    building_types = {
+        building_oil_rig
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_power_plant
+        building_railway
+    }
+}
+
+# Ganz Művek
+company_ganz_muvek = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1844
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+        building_railway
+        building_power_plant
+    }
+    extension_building_types = {
+        building_electrics_industry
+    }
+}
+
+# Gebrüder Thonet
+company_gebruder_thonet = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1853
+    flavored_company = yes
+    building_types = {
+        building_furniture_manufacturies
+    }
+    extension_building_types = {
+        building_logging_camp
+    }
+}
+
+# Glasfabrik Ludwig Moser & Söhne
+company_glasfabrik_ludwig_moser_and_sohne = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1857
+    flavored_company = yes
+    building_types = {
+        building_glassworks
+    }
+    extension_building_types = {
+        building_lead_mine
+        building_logging_camp
+    }
+}
+
+# MÁVAG
+company_mavag = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1870
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+        building_steel_mills
+        building_iron_mine
+    }
+    extension_building_types = {
+        building_automotive_industry
+        building_coal_mine
+        building_railway
+    }
+}
+
+# Manfréd Weiss Steel & Metal Works
+company_manfred_weiss_steel_and_metal_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1882
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        munition plants
+        automotive industries
+    }
+    extension_building_types = {
+        building_iron_mine
+    }
+}
+
+# Österreichische Waffenfabriksgesellschaft
+company_osterreichische_waffenfabriksgesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1869
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+}
+
+# Werndl & Co. Waffenfabrik und Sägemühle
+company_werndl_and_co_waffenfabrik_und_sagemuhle = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1864
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_logging_camp
+    }
+}
+
+# Air Liquide
+company_air_liquide = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1902
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_oil_rig
+    }
+}
+
+# Chantiers de l'Atlantique
+company_chantiers_de_l_atlantique = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1862
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+        building_port
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Citroën
+company_citroen = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1919
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# Compagnie des mines d'Anzin
+company_compagnie_des_mines_d_anzin = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1757
+    flavored_company = yes
+    building_types = {
+        building_coal_mine
+    }
+    extension_building_types = {
+        building_iron_mine
+        building_lead_mine
+        building_sulfur_mine
+    }
+}
+
+# Confédération générale des vignerons
+company_confederation_generale_des_vignerons = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1882
+    flavored_company = yes
+    building_types = {
+        building_vineyard_plantation
+    }
+    extension_building_types = {
+        building_food_industry
+    }
+}
+
+# Compagnie Générale Transatlantique
+company_compagnie_generale_transatlantique = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1855
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Compagnie Internationale des Wagons-Lits
+company_compagnie_internationale_des_wagons_lits = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1872
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Crédit Lyonnais
+company_credit_lyonnais = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1863
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Dollfus-Mieg et Compagnie
+company_dollfus_mieg_et_compagnie = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1746
+    flavored_company = yes
+    building_types = {
+        building_textile_mills
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_dye_plantation
+        building_cotton_plantation
+        building_silk_plantation
+    }
+}
+
+# Forges et Chantiers de la Méditerranée
+company_forges_et_chantiers_de_la_mediterranee = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1853
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+        building_motor_industry
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_iron_mine
+        building_coal_mine
+    }
+}
+
+# L'Oréal
+company_l_oreal = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1909
+    flavored_company = yes
+    building_types = {
+        building_synthetics_plants
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# Maison Worth
+company_maison_worth = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1858
+    flavored_company = yes
+    building_types = {
+        building_textile_mills
+    }
+    extension_building_types = {
+        building_dye_plantation
+        building_cotton_plantation
+        building_silk_plantation
+        building_arts_academy
+    }
+}
+
+# Manufacture d'armes de Saint- tienne
+company_manufacture_d_armes_de_saint_tienne = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1861
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_artillery_foundries
+        building_munition_plants
+        building_explosives_factory
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# Messageries Maritimes
+company_messageries_maritimes = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1851
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Michelin
+company_michelin = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1889
+    flavored_company = yes
+    building_types = {
+        building_rubber_plantation
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# Peugeot
+company_peugeot = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1810
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+    extension_building_types = {
+        building_tooling_workshops
+    }
+}
+
+# Renault
+company_renault = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1899
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# Saint-Gobain
+company_saint_gobain = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1665
+    flavored_company = yes
+    building_types = {
+        building_glassworks
+    }
+    extension_building_types = {
+        building_logging_camp
+        building_iron_mine
+        building_steel_mills
+        building_explosives_factory
+    }
+}
+
+# Schneider & Cie
+company_schneider_and_cie = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1836
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_arms_industry
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_shipyards
+        building_military_shipyards
+        building_motor_industry
+    }
+}
+
+# Société Générale
+company_societe_generale = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1864
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Société Mokta El Hadid
+company_societe_mokta_el_hadid = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1865
+    flavored_company = yes
+    building_types = {
+        building_iron_mine
+        building_sulfur_mine
+    }
+    extension_building_types = {
+        building_lead_mine
+    }
+}
+
+# Suez Canal Company
+company_suez_canal_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1858
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Aussedat Rey
+company_aussedat_rey = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1785
+    flavored_company = yes
+    building_types = {
+        building_paper_mills
+    }
+    extension_building_types = {
+        building_logging_camp
+        building_power_plant
+    }
+}
+
+# Allgemeine Elektricitäts-Gesellschaft
+company_allgemeine_elektricitats_gesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1883
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+    }
+    extension_building_types = {
+        building_power_plant
+        building_railway
+    }
+}
+
+# AG Vulcan Stettin
+company_ag_vulcan_stettin = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1851
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Allianz
+company_allianz = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1890
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Badische Anilin-und Sodafabrik
+company_badische_anilin_und_sodafabrik = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1865
+    flavored_company = yes
+    building_types = {
+        building_synthetics_plants
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_sulfur_mine
+        building_iron_mine
+    }
+}
+
+# Bayer
+company_bayer = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1863
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_synthetics_plants
+        building_opium_plantation
+    }
+}
+
+# Benz & Cie
+company_benz_and_cie = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1883
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# Blohm & Voss
+company_blohm_and_voss = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1877
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_steel_mills
+    }
+}
+
+# Bayerische Motoren Werke
+company_bayerische_motoren_werke = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1916
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# Carl Zeiss
+company_carl_zeiss = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1846
+    flavored_company = yes
+    building_types = {
+        building_tooling_workshops
+    }
+}
+
+# Daimler Motoren-Gesellschaft
+company_daimler_motoren_gesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1890
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# Deutsche Bank
+company_deutsche_bank = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1870
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Friedrich Krupp AG
+company_friedrich_krupp_ag = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1811
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_motor_industry
+        building_military_shipyards
+        building_iron_mine
+        building_coal_mine
+    }
+}
+
+# Hamburg-Amerikanische Packetfahrt-Actien-Gesellschaft
+company_hamburg_amerikanische_packetfahrt_actien_gesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1847
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Interessen-Gemeinschaft (IG) Farben
+company_interessen_gemeinschaft_ig_farben = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1925
+    flavored_company = yes
+    building_types = {
+        building_synthetics_plants
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_sulfur_mine
+        building_iron_mine
+        building_rubber_plantation
+        building_dye_plantation
+        building_opium_plantation
+    }
+}
+
+# Königliche Porzellan-Manufaktur Meissen
+company_konigliche_porzellan_manufaktur_meissen = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1710
+    flavored_company = yes
+    building_types = {
+        building_glassworks
+    }
+    extension_building_types = {
+        building_lead_mine
+    }
+}
+
+# Mannesmann
+company_mannesmann = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1890
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_iron_mine
+        building_coal_mine
+    }
+}
+
+# Mercedes-Benz
+company_mercedes_benz = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1926
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# Norddeutscher Lloyd
+company_norddeutscher_lloyd = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1857
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Preußische Staatseisenbahnen
+company_preuische_staatseisenbahnen = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1871
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Rheinmetall
+company_rheinmetall = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1889
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_explosives_factory
+        building_munition_plants
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_chemical_plants
+        building_sulfur_mine
+        building_lead_mine
+    }
+}
+
+# Schichau-Werke
+company_schichau_werke = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1837
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_railway
+        building_steel_mills
+    }
+}
+
+# Siemens & Halske
+company_siemens_and_halske = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1847
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+    }
+    extension_building_types = {
+        building_power_plant
+    }
+}
+
+# Thyssen
+company_thyssen = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1891
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_iron_mine
+        building_railway
+    }
+}
+
+# Zanders Feinpapiere AG
+company_zanders_feinpapiere_ag = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1829
+    flavored_company = yes
+    building_types = {
+        building_paper_mills
+    }
+    extension_building_types = {
+        building_logging_camp
+    }
+}
+
+# Acciaierie di Terni
+company_acciaierie_di_terni = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1884
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_iron_mine
+        building_railway
+    }
+}
+
+# Anglo-Sicilian Sulphur Company Ltd.
+company_anglo_sicilian_sulphur_company_ltd = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1896
+    flavored_company = yes
+    building_types = {
+        building_sulfur_mine
+    }
+    extension_building_types = {
+        building_port
+        building_trade_center
+    }
+}
+
+# Gio. Ansaldo & C.
+company_gio_ansaldo_and_c = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1853
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_motor_industry
+        building_artillery_foundries
+        building_munition_plants
+    }
+}
+
+# Barilla
+company_barilla = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
+    # Founded 1877
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+    }
+    extension_building_types = {
+        building_wheat_farm
+    }
+}
+
+# Beretta
+company_beretta = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1526
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+}
+
+# Breda
+company_breda = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1886
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+    extension_building_types = {
+        building_artillery_foundries
+        building_motor_industry
+    }
+}
+
+# Campari
+company_campari = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1860
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+    }
+}
+
+# Cantieri Riuniti dell'Adriatico
+company_cantieri_riuniti_dell_adriatico = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1908
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# FIAT
+company_fiat = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1899
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+    }
+}
+
+# G. Ricordi & C.
+company_g_ricordi_and_c = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1808
+    flavored_company = yes
+    building_types = {
+        building_arts_academy
+    }
+    extension_building_types = {
+        building_vineyard_plantation
+    }
+}
+
+# Acciaierie d'Italia S.p.A. (Ilva)
+company_acciaierie_d_italia_s_p_a_ilva = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1905
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_iron_mine
+        building_shipyards
+    }
+}
+
+# Mantero Serra
+company_mantero_serra = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1902
+    flavored_company = yes
+    building_types = {
+        building_silk_plantation
+        building_textile_mills
+    }
+    extension_building_types = {
+        building_cotton_plantation
+    }
+}
+
+# Montecatini
+company_montecatini = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1888
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_synthetics_plants
+    }
+}
+
+# Olivetti
+company_olivetti = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1908
+    flavored_company = yes
+    building_types = {
+        building_tooling_workshops
+    }
+    extension_building_types = {
+        building_electrics_industry
+    }
+}
+
+# Pirelli
+company_pirelli = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1872
+    flavored_company = yes
+    building_types = {
+        building_rubber_plantation
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# Stabilimento Tecnico Triestino
+company_stabilimento_tecnico_triestino = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1857
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_motor_industry
+    }
+}
+
+# Asahi Glass Company
+company_asahi_glass_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1907
+    flavored_company = yes
+    building_types = {
+        building_glassworks
+    }
+    extension_building_types = {
+        building_chemical_plants
+        building_lead_mine
+    }
+}
+
+# Furukawa Zaibatsu
+company_furukawa_zaibatsu = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1875
+    flavored_company = yes
+    building_types = {
+        building_iron_mine
+        building_tooling_workshops
+    }
+    extension_building_types = {
+        building_electrics_industry
+    }
+}
+
+# Ishikawajima Shipyard
+company_ishikawajima_shipyard = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1853
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Japan Steel Works
+company_japan_steel_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1906
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_iron_mine
+        building_arms_industry
+    }
+}
+
+# Kawasaki Dockyard
+company_kawasaki_dockyard = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1896
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_motor_industry
+    }
+}
+
+# Kinkōzan Sōbei
+company_kinkozan_sobei = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1645
+    flavored_company = yes
+    building_types = {
+        building_glassworks
+    }
+    extension_building_types = {
+        building_logging_camp
+        building_lead_mine
+    }
+}
+
+# Mitsubishi Zaibatsu
+company_mitsubishi_zaibatsu = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1870
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_military_shipyards
+        building_port
+        building_paper_mills
+        building_coal_mine
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_iron_mine
+        building_chemical_plants
+        building_motor_industry
+    }
+}
+
+# Mitsui Zaibatsu
+company_mitsui_zaibatsu = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1876
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+        building_silk_plantation
+        building_lead_mine
+        building_port
+        building_textile_mills
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_iron_mine
+        building_coal_mine
+        building_chemical_plants
+    }
+}
+
+# Nippon Denki Kabushiki
+company_nippon_denki_kabushiki = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1899
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+        building_tooling_workshops
+    }
+}
+
+# Nippon Kōgaku Kōgyō (Nikk?)
+company_nippon_kogaku_kogyo_nikk = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1917
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+        building_tooling_workshops
+    }
+}
+
+# Nippon Yusen Kaisha
+company_nippon_yusen_kaisha = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1885
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Oji Paper
+company_oji_paper = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1873
+    flavored_company = yes
+    building_types = {
+        building_paper_mills
+    }
+    extension_building_types = {
+        building_logging_camp
+    }
+}
+
+# Showa Denko
+company_showa_denko = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1931
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_synthetics_plants
+        building_oil_rig
+    }
+}
+
+# Minamimanshū Tetsudō
+company_minamimanshu_tetsudo = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1906
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_iron_mine
+        building_glassworks
+        building_food_industry
+        building_chemical_plants
+    }
+}
+
+# Sumitomo Zaibatsu
+company_sumitomo_zaibatsu = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1891
+    flavored_company = yes
+    building_types = {
+        building_tooling_workshops
+    }
+    extension_building_types = {
+        building_trade_center
+        building_chemical_plants
+        building_electrics_industry
+        building_power_plant
+    }
+}
+
+# Toyota Jidō Shokki KK
+company_toyota_jido_shokki_kk = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1926
+    flavored_company = yes
+    building_types = {
+        building_textile_mills
+        building_tooling_workshops
+    }
+}
+
+# Toyota Zaibatsu
+company_toyota_zaibatsu = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1933
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+        building_motor_industry
+        building_textile_mills
+        building_tooling_workshops
+    }
+    extension_building_types = {
+        building_electrics_industry
+    }
+}
+
+# Yasuda Zaibatsu
+company_yasuda_zaibatsu = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1880
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Yawata Steel Works
+company_yawata_steel_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1901
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_coal_mine
+        building_iron_mine
+        building_railway
+    }
+}
+
+# Osmanlı Anonim Elektrik Şirketi
+company_osmanl_anonim_elektrik_sirketi = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1911
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Allatini Mills
+company_allatini_mills = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
+    # Founded 1840
+    flavored_company = yes
+    building_types = {
+        building_wheat_farm
+        building_rice_farm
+        building_food_industry
+    }
+    extension_building_types = {
+        building_millet_farm
+        building_rye_farm
+        building_maize_farm
+    }
+}
+
+# Anatolian Railway Company
+company_anatolian_railway_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1888
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_port
+    }
+}
+
+# Chemins de fer Orientaux
+company_chemins_de_fer_orientaux = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1869
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Ottoman American Line
+company_ottoman_american_line = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1911
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Osmanlı Bankası
+company_osmanl_bankas = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1856
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Müşterek Menfaalı Tütün Rejisi
+company_musterek_menfaal_tutun_rejisi = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1884
+    flavored_company = yes
+    building_types = {
+        building_tobacco_plantation
+    }
+    extension_building_types = {
+        building_opium_plantation
+    }
+}
+
+# Regie Co‑intéressée des Tabacs
+company_regie_cointeressee_des_tabacs = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1884
+    flavored_company = yes
+    building_types = {
+        building_tobacco_plantation
+    }
+    extension_building_types = {
+        building_opium_plantation
+    }
+}
+
+# Tersâne‑i Âmire
+company_tersanei_amire = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1450s
+    flavored_company = yes
+    building_types = {
+        building_military_shipyards
+        building_shipyards
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_arms_industry
+        building_munition_plants
+    }
+}
+
+# Turkish Petroleum Company
+company_turkish_petroleum_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1912
+    flavored_company = yes
+    building_types = {
+        building_oil_rig
+    }
+    extension_building_types = {
+        building_power_plant
+    }
+}
+
+# Zeytinburnu Foundry
+company_zeytinburnu_foundry = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1840s
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_iron_mine
+        building_coal_mine
+        building_artillery_foundries
+    }
+}
+
+# Baltic Shipyard
+company_baltic_shipyard = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1856
+    flavored_company = yes
+    building_types = {
+        building_military_shipyards
+        building_shipyards
+    }
+}
+
+# Branobel
+company_branobel = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1876
+    flavored_company = yes
+    building_types = {
+        building_oil_rig
+    }
+    extension_building_types = {
+        building_power_plant
+    }
+}
+
+# Dobrolyot
+company_dobrolyot = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1923
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Fabergé
+company_faberge = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1842
+    flavored_company = yes
+    building_types = {
+        building_glassworks
+        building_arts_academy
+    }
+    extension_building_types = {
+        building_furniture_manufacturies
+    }
+}
+
+# Izhevsk Arms Plant
+company_izhevsk_arms_plant = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1807
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_munition_plants
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_steel_mills
+    }
+}
+
+# Moscow Irrigation Company
+company_moscow_irrigation_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1865
+    flavored_company = yes
+    building_types = {
+        building_cotton_plantation
+        building_rice_farm
+        building_rye_farm
+    }
+    extension_building_types = {
+        building_wheat_farm
+        building_opium_plantation
+    }
+}
+
+# New Russia Company Ltd.
+company_new_russia_company_ltd = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1892
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_coal_mine
+        building_iron_mine
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Obukhov Steel Works
+company_obukhov_steel_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1863
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_steel_mills
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_military_shipyards
+    }
+}
+
+# Putilov Works
+company_putilov_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1868
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_motor_industry
+    }
+    extension_building_types = {
+        building_artillery_foundries
+    }
+}
+
+# Russian Steam Navigation Company (ROPiT)
+company_russian_steam_navigation_company_ropit = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1856
+    flavored_company = yes
+    building_types = {
+        building_shipyards
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Russian-American Company
+company_russian_american_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1799
+    flavored_company = yes
+    building_types = {
+        building_logging_camp
+        building_whaling_station
+        building_port
+        building_trade_center
+    }
+    extension_building_types = {
+        building_fishing_wharf
+        building_coal_mine
+        building_gold_mine
+    }
+}
+
+# Russo-Baltic Wagon Works
+company_russo_baltic_wagon_works = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1874
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+    }
+    extension_building_types = {
+        building_automotive_industry
+    }
+}
+
+# Savva Morozov & Sons
+company_savva_morozov_and_sons = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1823
+    flavored_company = yes
+    building_types = {
+        building_textile_mills
+    }
+    extension_building_types = {
+        building_cotton_plantation
+    }
+}
+
+# State Bank of The Russian Empire
+company_state_bank_of_the_russian_empire = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1860
+    flavored_company = yes
+    building_types = {
+        building_trade_center
+    }
+}
+
+# Tula Arms Plant
+company_tula_arms_plant = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1712
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_munition_plants
+    }
+    extension_building_types = {
+        building_tooling_workshops
+    }
+}
+
+# PA Smirnov
+company_pa_smirnov = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1894
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+        building_rye_farm
+    }
+    extension_building_types = {
+        building_vineyard_plantation
+        building_wheat_farm
+    }
+}
+
+# Armstrong Whitworth
+company_armstrong_whitworth = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1897
+    flavored_company = yes
+    building_types = {
+        building_artillery_foundries
+        building_military_shipyards
+    }
+    extension_building_types = {
+        building_shipyards
+        building_motor_industry
+    }
+}
+
+# Arthur Guinness Son & Co. Ltd.
+company_arthur_guinness_son_and_co_ltd = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
+    # Founded 1759
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+        building_rye_farm
+    }
+    extension_building_types = {
+        building_wheat_farm
+    }
+}
+
+# Birmingham Small Arms (BSA)
+company_birmingham_small_arms_bsa = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1861
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_munition_plants
+    }
+    extension_building_types = {
+        building_automotive_industry
+    }
+}
+
+# Bolckow Vaughan & Co.
+company_bolckow_vaughan_and_co = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1864
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_coal_mine
+        building_iron_mine
+    }
+    extension_building_types = {
+        building_lead_mine
+    }
+}
+
+# Cunard Line
+company_cunard_line = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1840
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# de Havilland Aircraft
+company_de_havilland_aircraft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1920
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Great Western Railway
+company_great_western_railway = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1833
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_port
+        building_coal_mine
+        building_trade_center
+    }
+}
+
+# Harland & Wolff
+company_harland_and_wolff = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1861
+    flavored_company = yes
+    building_types = {
+        building_military_shipyards
+        building_shipyards
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_motor_industry
+    }
+}
+
+# Imperial Chemical Industries
+company_imperial_chemical_industries = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1926
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_explosives_factory
+        building_synthetics_plants
+    }
+}
+
+# J&P Coats
+company_jandp_coats = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1826
+    flavored_company = yes
+    building_types = {
+        building_textile_mills
+    }
+    extension_building_types = {
+        building_cotton_plantation
+        building_silk_plantation
+    }
+}
+
+# John Brown & Co.
+company_john_brown_and_co = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1851
+    flavored_company = yes
+    building_types = {
+        building_military_shipyards
+        building_shipyards
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_motor_industry
+    }
+}
+
+# Maple & Co.
+company_maple_and_co = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1841
+    flavored_company = yes
+    building_types = {
+        building_furniture_manufacturies
+    }
+    extension_building_types = {
+        building_logging_camp
+    }
+}
+
+# P&O Steam Navigation
+company_pando_steam_navigation = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1837
+    flavored_company = yes
+    building_types = {
+        building_port
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Rolls‑Royce
+company_rollsroyce = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1906
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+    }
+    extension_building_types = {
+        building_automotive_industry
+    }
+}
+
+# Royal Small Arms Factory
+company_royal_small_arms_factory = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1816
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_munition_plants
+    }
+}
+
+# Shell Transport & Trading
+company_shell_transport_and_trading = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1897
+    flavored_company = yes
+    building_types = {
+        building_oil_rig
+        building_whaling_station
+    }
+    extension_building_types = {
+        building_port
+        building_trade_center
+    }
+}
+
+# Vickers Ltd.
+company_vickers_ltd = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1867
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+        building_steel_mills
+        building_artillery_foundries
+    }
+    extension_building_types = {
+        building_military_shipyards
+        building_shipyards
+        building_automotive_industry
+    }
+}
+
+# Webley & Scott
+company_webley_and_scott = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1834
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+}
+
+# Anaconda Copper Mining
+company_anaconda_copper_mining = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1881
+    flavored_company = yes
+    building_types = {
+        building_lead_mine
+        building_iron_mine
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Armour & Company
+company_armour_and_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1867
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# Bell Telephone Company
+company_bell_telephone_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1885
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+    }
+}
+
+# Baltimore & Ohio Railroad
+company_baltimore_and_ohio_railroad = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1827
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# Boeing Airplane Company
+company_boeing_airplane_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1916
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+    }
+    extension_building_types = {
+        building_logging_camp
+        building_motor_industry
+    }
+}
+
+# Cargill
+company_cargill = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
+    # Founded 1865
+    flavored_company = yes
+    building_types = {
+        building_wheat_farm
+        building_rye_farm
+        building_millet_farm
+        building_maize_farm
+        building_rice_farm
+    }
+    extension_building_types = {
+        building_trade_center
+        building_port
+    }
+}
+
+# Carnegie Steel Company
+company_carnegie_steel_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1874
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_iron_mine
+        building_iron_mine
+        building_railway
+    }
+}
+
+# Jones and Laughlin Steel Company
+company_jones_and_laughlin_steel_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1852
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+        building_iron_mine
+    }
+    extension_building_types = {
+        building_coal_mine
+    }
+}
+
+# Pittsburgh Bessemer Steel Company
+company_pittsburgh_bessemer_steel_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1881
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+}
+
+# Illinois Steel Company (Federal Steel)
+company_illinois_steel_company_federal_steel = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1889 (1898)
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+}
+
+# National Steel Company
+company_national_steel_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1899
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+}
+
+# Weirton Steel Corporation
+company_weirton_steel_corporation = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1909
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+}
+
+# National Steel Corporation
+company_national_steel_corporation = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1929
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+}
+
+# Caterpillar
+company_caterpillar = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1925
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+        building_automotive_industry
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_trade_center
+    }
+}
+
+# Colt's Patent Firearms Manufacturing Company
+company_colt_s_patent_firearms_manufacturing_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1836
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+}
+
+# DuPont de Nemours, Inc
+company_dupont_de_nemours_inc = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1802
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+        building_explosives_factory
+    }
+    extension_building_types = {
+        building_munition_plants
+    }
+}
+
+# Ford Motor Company
+company_ford_motor_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1903
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+    }
+    extension_building_types = {
+        building_steel_mills
+        building_rubber_plantation
+    }
+}
+
+# General Electric
+company_general_electric = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1892
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# General Mills
+company_general_mills = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
+    # Founded 1928
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+        building_wheat_farm
+    }
+    extension_building_types = {
+        building_trade_center
+    }
+}
+
+# General Motors
+company_general_motors = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1908
+    flavored_company = yes
+    building_types = {
+        building_automotive_industry
+    }
+    extension_building_types = {
+        building_electrics_industry
+    }
+}
+
+# Computing-Tabulating-Recording Company (IBM)
+company_computing_tabulating_recording_company_ibm = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1911
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+    }
+}
+
+# International Paper
+company_international_paper = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1898
+    flavored_company = yes
+    building_types = {
+        building_paper_mills
+    }
+    extension_building_types = {
+        building_power_plant
+    }
+}
+
+# Kellogg Company
+company_kellogg_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1906
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+    }
+}
+
+# Lee Wilson & Company
+company_lee_wilson_and_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1900
+    flavored_company = yes
+    building_types = {
+        building_wheat_farm
+        building_cotton_plantation
+    }
+    extension_building_types = {
+        building_logging_camp
+        building_railway
+    }
+}
+
+# Pennsylvania Railroad
+company_pennsylvania_railroad = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1846
+    flavored_company = yes
+    building_types = {
+        building_railway
+    }
+    extension_building_types = {
+        building_coal_mine
+    }
+}
+
+# Procter & Gamble
+company_procter_and_gamble = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1837
+    flavored_company = yes
+    building_types = {
+        building_chemical_plants
+    }
+    extension_building_types = {
+        building_food_industry
+    }
+}
+
+# Pullman Company
+company_pullman_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1867
+    flavored_company = yes
+    building_types = {
+        building_motor_industry
+    }
+    extension_building_types = {
+        building_automotive_industry
+    }
+}
+
+# Remington Arms
+company_remington_arms = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1816
+    flavored_company = yes
+    building_types = {
+        building_arms_industry
+    }
+    extension_building_types = {
+        building_tooling_workshops
+    }
+}
+
+# Standard Oil Company
+company_standard_oil_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1870
+    flavored_company = yes
+    building_types = {
+        building_oil_rig
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# Swift & Company
+company_swift_and_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1878
+    flavored_company = yes
+    building_types = {
+        building_food_industry
+    }
+    extension_building_types = {
+        building_chemical_plants
+    }
+}
+
+# United Fruit Company
+company_united_fruit_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    # Founded 1899
+    flavored_company = yes
+    building_types = {
+        building_banana_plantation
+        building_sugar_plantation
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# United States Steel
+company_united_states_steel = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1901
+    flavored_company = yes
+    building_types = {
+        building_steel_mills
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Westinghouse Electric
+company_westinghouse_electric = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1886
+    flavored_company = yes
+    building_types = {
+        building_electrics_industry
+    }
+    extension_building_types = {
+        building_motor_industry
+    }
+}
+
+# Weyerhaeuser
+company_weyerhaeuser = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1900
+    flavored_company = yes
+    building_types = {
+        building_logging_camp
+    }
+    extension_building_types = {
+        building_paper_mills
+        building_railway
+    }
+}
+
+# William Cramp & Sons
+company_william_cramp_and_sons = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1825
+    flavored_company = yes
+    building_types = {
+        building_military_shipyards
+        building_shipyards
+    }
+    extension_building_types = {
+        building_motor_industry
+        building_artillery_foundries
+    }
+}
+
+# Hammermill Paper Company
+company_hammermill_paper_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1898
+    flavored_company = yes
+    building_types = {
+        building_paper_mills
+    }
+    extension_building_types = {
+        building_logging_camp
+    }
+}
+
+# Champion Coated Paper Co.
+company_champion_coated_paper_co = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
+    # Founded 1893
+    flavored_company = yes
+    building_types = {
+        building_paper_mills
+    }
+    extension_building_types = {
+        building_logging_camp
+    }
+}
+
+# Consolidated Edison
+company_consolidated_edison = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1884
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_oil_rig
+    }
+}
+
+# Pacific Gas & Electric (PG&E)
+company_pacific_gas_and_electric_pgande = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
+    # Founded 1905
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_oil_rig
+    }
+}
+
+# Commonwealth Edison
+company_commonwealth_edison = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1907
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Duke Power (Southern Power Co.)
+company_duke_power_southern_power_co = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1905
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# London Power Company
+company_london_power_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1925
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# North Eastern Electric Supply (NESCo)
+company_north_eastern_electric_supply_nesco = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1889
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Compagnie Parisienne de Distribution d’Électricité (CPDE)
+company_compagnie_parisienne_de_distribution_delectricite_cpde = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1889
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Société Lyonnaise des Forces Motrices du Rhône
+company_societe_lyonnaise_des_forces_motrices_du_rhone = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1921
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# RWE (Rheinisch‑Westfälisches Elektrizitätswerk)
+company_rwe_rheinischwestfalisches_elektrizitatswerk = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1898
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_coal_mine
+    }
+}
+
+# PreussenElektra
+company_preussenelektra = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    # Founded 1927
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_coal_mine
+    }
+}
+
+# St Petersburg Electric Lighting Company
+company_st_petersburg_electric_lighting_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1886
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Moscow Electric Lighting Company
+company_moscow_electric_lighting_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_railways.dds"
+    # Founded 1897
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_railway
+    }
+}
+
+# Tokyo Electric Light Company
+company_tokyo_electric_light_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1883
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Osaka Electric Light Company
+company_osaka_electric_light_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1891
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Edison volta (Società Edison)
+company_edison_volta_societa_edison = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1884
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# SADE (Società Adriatica di Elettricità)
+company_sade_societa_adriatica_di_elettricita = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    # Founded 1905
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+    extension_building_types = {
+        building_port
+    }
+}
+
+# Ungarische Allgemeine Elektrizitäts‑Gesellschaft
+company_ungarische_allgemeine_elektrizitatsgesellschaft = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1893
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Steirische Wasserkraft‑ u. Elektrizitäts‑Gesellschaft (STEWAG)
+company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1908
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Ottoman Electric Company
+company_ottoman_electric_company = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1910
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
+# Société d’Électro‑Ottomane
+company_societe_delectroottomane = {
+    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    # Founded 1908
+    flavored_company = yes
+    building_types = {
+        building_power_plant
+    }
+}
+
