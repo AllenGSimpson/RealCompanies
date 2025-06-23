@@ -152,6 +152,9 @@ company_gebruder_thonet = {
     extension_building_types = {
         building_logging_camp
     }
+    possible_prestige_goods = {
+        prestige_good_bentwood_furniture
+    }
 }
 
 # Glasfabrik Ludwig Moser & Söhne
@@ -401,6 +404,9 @@ company_maison_worth = {
         building_silk_plantation
         building_arts_academy
     }
+    possible_prestige_goods = {
+        prestige_good_haute_couture
+    }
 }
 
 # Manufacture d'armes de Saint- tienne
@@ -533,6 +539,9 @@ company_societe_mokta_el_hadid = {
     }
     extension_building_types = {
         building_lead_mine
+    }
+    possible_prestige_goods = {
+        prestige_good_meissen_porcelain
     }
 }
 
@@ -879,6 +888,9 @@ company_siemens_and_halske = {
     extension_building_types = {
         building_power_plant
     }
+    possible_prestige_goods = {
+        prestige_good_baku_oil
+    }
 }
 
 # Thyssen
@@ -1034,6 +1046,9 @@ company_fiat = {
     building_types = {
         building_automotive_industry
         building_motor_industry
+    }
+    possible_prestige_goods = {
+        prestige_good_turin_automobiles
     }
 }
 
@@ -1230,6 +1245,9 @@ company_kinkozan_sobei = {
         building_logging_camp
         building_lead_mine
     }
+    possible_prestige_goods = {
+        prestige_good_satsuma_ware
+    }
 }
 
 # Mitsubishi Zaibatsu
@@ -1251,6 +1269,9 @@ company_mitsubishi_zaibatsu = {
         building_chemical_plants
         building_motor_industry
     }
+    possible_prestige_goods = {
+        prestige_good_washi_paper
+    }
 }
 
 # Mitsui Zaibatsu
@@ -1271,6 +1292,9 @@ company_mitsui_zaibatsu = {
         building_iron_mine
         building_coal_mine
         building_chemical_plants
+    }
+    possible_prestige_goods = {
+        prestige_good_tomioka_silk
     }
 }
 
@@ -1760,6 +1784,9 @@ company_russian_american_company = {
         building_coal_mine
         building_gold_mine
     }
+    possible_prestige_goods = {
+        prestige_good_generic_meat
+    }
 }
 
 # Russo-Baltic Wagon Works
@@ -1846,6 +1873,9 @@ company_armstrong_whitworth = {
         building_shipyards
         building_motor_industry
     }
+    possible_prestige_goods = {
+        prestige_good_armstrong_ships
+    }
 }
 
 # Arthur Guinness Son & Co. Ltd.
@@ -1860,6 +1890,9 @@ company_arthur_guinness_son_and_co_ltd = {
     }
     extension_building_types = {
         building_wheat_farm
+    }
+    possible_prestige_goods = {
+        prestige_good_generic_groceries
     }
 }
 
@@ -2011,6 +2044,9 @@ company_maple_and_co = {
     }
     extension_building_types = {
         building_logging_camp
+    }
+    possible_prestige_goods = {
+        prestige_good_english_upholstery
     }
 }
 
@@ -2341,6 +2377,9 @@ company_general_electric = {
     }
     extension_building_types = {
         building_trade_center
+    }
+    possible_prestige_goods = {
+        prestige_good_radiola_radios
     }
 }
 
