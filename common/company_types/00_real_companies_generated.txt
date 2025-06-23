@@ -888,9 +888,6 @@ company_siemens_and_halske = {
     extension_building_types = {
         building_power_plant
     }
-    possible_prestige_goods = {
-        prestige_good_baku_oil
-    }
 }
 
 # Thyssen
@@ -1640,6 +1637,9 @@ company_branobel = {
     }
     extension_building_types = {
         building_power_plant
+    }
+    possible_prestige_goods = {
+        prestige_good_baku_oil
     }
 }
 
