@@ -110,7 +110,7 @@ company_basic_agriculture_2 = {
 					is_building_type = building_rye_farm
 					is_building_type = building_livestock_ranch
 				}
-				level >= 5
+				level >= 1
 			}
 		}
 	}
@@ -748,7 +748,7 @@ company_basic_metal_mining = {
 					is_building_type = building_lead_mine
 					is_building_type = building_sulfur_mine
 				}
-				level >= 5
+				level >= 1
 			}
 		}
 	}
@@ -830,7 +830,7 @@ company_basic_mineral_mining = {
 					is_building_type = building_sulfur_mine
 					is_building_type = building_coal_mine
 				}
-				level >= 3
+				level >= 1
 			}
 		}
 	}
