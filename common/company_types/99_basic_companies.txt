@@ -15,14 +15,16 @@ company_basic_agriculture_1 = {
 		"dynamic_company_type_fellowship"
 	}
 
-	building_types = {
-		building_wheat_farm
-		building_rye_farm
-	}
-
-	extension_building_types = {
-		building_maize_farm
-	}
+       building_types = {
+               building_millet_farm
+               building_maize_farm
+               building_rice_farm
+               building_wheat_farm
+               building_rye_farm
+       }
+        extension_building_types = {
+               building_food_industry
+       }
 
 	possible = {
 		any_scope_state = {
@@ -69,15 +71,17 @@ company_basic_agriculture_2 = {
 		"dynamic_company_type_fellowship"
 	}
 
-	building_types = {
-		building_rice_farm
-		building_millet_farm
-		building_maize_farm
-	}
+       building_types = {
+               building_millet_farm
+               building_maize_farm
+               building_rice_farm
+               building_wheat_farm
+               building_rye_farm
+       }
 
-	extension_building_types = {
-		building_rye_farm
-	}
+       extension_building_types = {
+               building_food_industry
+       }
 
 	possible = {
 		any_scope_state = {
@@ -131,7 +135,7 @@ company_basic_fabrics = {
 		building_livestock_ranch
 	}
 
-	extension_building_types = {
+        extension_building_types = {
 		building_textile_mills
 	}
 
@@ -190,14 +194,15 @@ company_basic_colonial_plantations_1 = {
 		"dynamic_company_type_fellowship"
 	}
 
-	building_types = {
-		building_opium_plantation
-		building_tea_plantation
-	}
+       building_types = {
+               building_opium_plantation
+               building_tea_plantation
+               building_tobacco_plantation
+       }
 
-	extension_building_types = {
-		building_tobacco_plantation
-	}
+       extension_building_types = {
+                building_port
+       }
 
 	possible_prestige_goods = {
 		prestige_good_generic_opium
@@ -323,14 +328,15 @@ company_basic_silk_and_dye = {
 		"dynamic_company_type_fellowship"
 	}
 
-	building_types = {
-		building_silk_plantation
-		building_dye_plantation
-	}
+        building_types = {
+                building_silk_plantation
+                building_dye_plantation
+                building_synthetics_plants
+        }
 
-	extension_building_types = {
-		building_textile_mills
-	}
+        extension_building_types = {
+                building_textile_mills
+        }
 
 	possible = {
 		any_scope_state = {
@@ -377,14 +383,15 @@ company_basic_wine_and_fruit = {
 		"dynamic_company_type_fellowship"
 	}
 
-	building_types = {
-		building_vineyard_plantation
-		building_banana_plantation
-	}
+        building_types = {
+                building_vineyard_plantation
+                building_banana_plantation
+                building_sugar_plantation
+        }
 
-	extension_building_types = {
-		building_sugar_plantation
-	}
+        extension_building_types = {
+                building_food_industry
+        }
 
 	possible = {
 		any_scope_state = {
@@ -438,9 +445,11 @@ company_basic_fishing = {
 		building_whaling_station
 	}
 
-	extension_building_types = {
-		building_shipyards
-	}
+        extension_building_types = {
+                building_shipyards
+                building_port
+                building_food_industry
+        }
 
 	possible_prestige_goods = {
 		prestige_good_generic_fish
@@ -501,10 +510,9 @@ company_basic_forestry = {
 		"dynamic_company_type_guild"
 	}
 
-	building_types = {
-		building_logging_camp
-		building_rubber_plantation
-	}
+        building_types = {
+                building_logging_camp
+        }
 
 	extension_building_types = {
 		building_tooling_workshops
@@ -561,9 +569,6 @@ company_basic_oil = {
 		building_oil_rig
 	}
 
-	extension_building_types = {
-		building_coal_mine
-	}
 
 	possible = {
 		any_scope_state = {
@@ -655,14 +660,17 @@ company_basic_metal_mining = {
 		"dynamic_company_type_guild"
 	}
 
-	building_types = {
-		building_iron_mine
-		building_lead_mine
-	}
+        building_types = {
+                building_gold_mine
+                building_iron_mine
+                building_lead_mine
+                building_sulfur_mine
+        }
 
-	extension_building_types = {
-		building_coal_mine
-	}
+        extension_building_types = {
+                building_coal_mine
+                building_steel_mills
+        }
 
 	possible = {
 		any_scope_state = {
@@ -677,7 +685,7 @@ company_basic_metal_mining = {
 	}
 
 	prosperity_modifier = {
-		building_steel_mills_throughput_add = 0.1
+                building_steel_mills_throughput_add = 0.1
 	}
 
 	ai_will_do = {
@@ -711,14 +719,20 @@ company_basic_mineral_mining = {
 		"dynamic_company_type_guild"
 	}
 
-	building_types = {
-		building_sulfur_mine
-		building_coal_mine
-	}
+        building_types = {
+                building_sulfur_mine
+                building_coal_mine
+                building_gold_mine
+                building_iron_mine
+                building_lead_mine
+        }
 
-	extension_building_types = {
-		building_iron_mine
-	}
+       extension_building_types = {
+               building_steel_mills
+               building_tooling_workshops
+               building_shipyards
+               building_military_shipyards
+       }
 
 	possible = {
 		any_scope_state = {
@@ -770,10 +784,11 @@ company_basic_food = {
 		building_food_industry
 	}
 
-	extension_building_types = {
-		building_livestock_ranch
-		building_wheat_farm
-	}
+        extension_building_types = {
+                building_livestock_ranch
+                building_wheat_farm
+                building_fishing_wharf
+        }
 
 	possible_prestige_goods = {
 		prestige_good_generic_groceries
@@ -831,10 +846,10 @@ company_basic_paper = {
 	building_types = {
 		building_paper_mills
 	}
-
-	extension_building_types = {
-		building_logging_camp
-	}
+        extension_building_types = {
+                building_port
+                building_steel_mills
+        }
 
 	possible = {
 		any_scope_state = {
@@ -878,15 +893,17 @@ company_basic_home_goods = {
 		"dynamic_company_type_combine"
 	}
 
-	building_types = {
-		building_glassworks
-		building_furniture_manufacturies
-	}
+        building_types = {
+                building_glassworks
+                building_furniture_manufacturies
+                building_electrics_industry
+        }
 
-	extension_building_types = {
-		building_logging_camp
-		building_lead_mine
-	}
+        extension_building_types = {
+                building_logging_camp
+                building_lead_mine
+                building_rubber_plantation
+        }
 
 	possible_prestige_goods = {
 		prestige_good_generic_furniture
@@ -951,10 +968,11 @@ company_basic_textiles = {
 		building_textile_mills
 	}
 
-	extension_building_types = {
-		building_cotton_plantation
-		building_silk_plantation
-	}
+        extension_building_types = {
+                building_cotton_plantation
+                building_silk_plantation
+                building_livestock_ranch
+        }
 
 	possible_prestige_goods = {
 		prestige_good_generic_clothes
@@ -1024,10 +1042,14 @@ company_basic_steel = {
 		}
 	}
 
-	extension_building_types = {
-		building_iron_mine
-		building_coal_mine
-	}
+        extension_building_types = {
+                building_iron_mine
+                building_coal_mine
+                building_tooling_workshops
+                building_motor_industry
+                building_arms_industry
+                building_artillery_foundries
+        }
 
 	possible = {
 		any_scope_state = {
@@ -1071,15 +1093,18 @@ company_basic_metalworks = {
 		"dynamic_company_type_combine"
 	}
 
-	building_types = {
-		building_tooling_workshops
-		building_arms_industry
-		building_artillery_foundries
-	}
+        building_types = {
+                building_tooling_workshops
+                building_arms_industry
+                building_artillery_foundries
+                building_motor_industry
+        }
 
-	extension_building_types = {
-		building_steel_mills
-	}
+        extension_building_types = {
+                building_steel_mills
+                building_shipyards
+                building_military_shipyards
+        }
 
 	possible_prestige_goods = {
 		prestige_good_generic_tools
@@ -1147,9 +1172,10 @@ company_basic_shipyards = {
 		building_military_shipyards
 	}
 
-	extension_building_types = {
-		building_logging_camp
-	}
+	        extension_building_types = {
+                building_port
+                building_steel_mills
+        }
 
 	possible = {
 		any_scope_state = {
@@ -1204,9 +1230,14 @@ company_basic_chemicals = {
 		building_synthetics_plants
 	}
 
-	extension_building_types = {
-		building_sulfur_mine
-	}
+        extension_building_types = {
+                building_oil_rig
+                building_rubber_plantation
+                building_sulfur_mine
+                building_iron_mine
+                building_lead_mine
+                building_port
+        }
 
 	possible_prestige_goods = {
 		prestige_good_generic_fertilizer
@@ -1272,9 +1303,12 @@ company_basic_motors = {
 		building_automotive_industry
 	}
 
-	extension_building_types = {
-		building_steel_mills
-	}
+       extension_building_types = {
+               building_steel_mills
+               building_tooling_workshops
+               building_shipyards
+               building_military_shipyards
+       }
 
 	possible = {
 		any_scope_state = {
@@ -1324,15 +1358,18 @@ company_basic_munitions = {
 		"dynamic_company_type_combine"
 	}
 
-	building_types = {
-		building_munition_plants
-		building_explosives_factory
-	}
+        building_types = {
+                building_munition_plants
+                building_explosives_factory
+                building_arms_industry
+                building_artillery_foundries
+        }
 
-	extension_building_types = {
-		building_sulfur_mine
-		building_steel_mills
-	}
+        extension_building_types = {
+                building_sulfur_mine
+                building_steel_mills
+                building_chemical_plants
+        }
 
 	possible = {
 		any_scope_state = {
@@ -1387,12 +1424,11 @@ company_basic_electrics = {
 		building_power_plant
 	}
 
-	extension_building_types = {
-		building_electrics_industry
-		building_logging_camp
-		building_coal_mine
-		building_oil_rig
-	}
+        extension_building_types = {
+                building_electrics_industry
+                building_coal_mine
+                building_oil_rig
+        }
 
 	possible = {
 		any_scope_state = {
@@ -1421,15 +1457,19 @@ company_construction_power_bloc = {
 	icon = "gfx/interface/icons/company_icons/basic_construction.dds"
 	background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufactering_light.dds"
 
-	building_types = {
-		building_steel_mills
-		building_tooling_workshops
-		building_glassworks
-	}
+        building_types = {
+                building_glassworks
+                building_tooling_workshops
+                building_explosives_factory
+                building_logging_camp
+        }
 
-	extension_building_types = {
-		building_lead_mine
-	}
+        extension_building_types = {
+                building_power_plant
+                building_steel_mills
+                building_lead_mine
+                building_chemical_plants
+        }
 
 	potential = {
 		is_in_power_bloc = yes
@@ -1469,4 +1509,4 @@ company_construction_power_bloc = {
 		}
 	}
 }
-#
+

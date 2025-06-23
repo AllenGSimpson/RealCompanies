@@ -199,3 +199,6 @@ l_japanese:
  company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag: "シュタイア水力・電力会社（ステヴァグ）"
  company_ottoman_electric_company: "オスマン電力会社"
  company_societe_delectroottomane: "ソシエテ・デレクトロ＝オスマネ"
+ company_basic_electrics_dynamic_name_tag_singular: "電力"
+ company_basic_electrics_dynamic_name_tag_plural: "電力"
+
