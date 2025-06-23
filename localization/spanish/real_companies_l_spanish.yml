@@ -201,3 +201,5 @@ l_spanish:
 company_societe_delectroottomane: "Société d’Électro‑Ottomane"
  company_basic_electrics_dynamic_name_tag_singular: "Electricidad"
  company_basic_electrics_dynamic_name_tag_plural: "Electricidad"
+  modifier_rc_company_slot_bonus: "Additional Company Slot"
+  modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."

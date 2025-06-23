@@ -201,3 +201,5 @@ l_french:
 company_societe_delectroottomane: "Société d’Électro‑Ottomane"
  company_basic_electrics_dynamic_name_tag_singular: "électricité"
  company_basic_electrics_dynamic_name_tag_plural: "électricité"
+  modifier_rc_company_slot_bonus: "Additional Company Slot"
+  modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."
