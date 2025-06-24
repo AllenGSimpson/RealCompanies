@@ -1,3 +1,4 @@
 ﻿rc_company_slot_bonus = {
+    icon = gfx/interface/icons/timed_modifier_icons/modifier_coins_positive.dds
     country_max_companies_add = 1
 }
