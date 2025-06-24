@@ -2914,8 +2914,8 @@ company_obukhov_steel_works = {
 
 # Putilov Works
 company_putilov_works = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
-    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/russian_putilov.dds"
+	background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1868
     flavored_company = yes
     building_types = {
@@ -3022,7 +3022,7 @@ company_russo_baltic_wagon_works = {
 
 # Savva Morozov & Sons
 company_savva_morozov_and_sons = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/russian_savva_morozov_and_sons.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
     # Founded 1823
     flavored_company = yes
@@ -3092,8 +3092,8 @@ company_tula_arms_plant = {
 
 # PA Smirnov
 company_pa_smirnov = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
-    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/russian_vodka_monopoly.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
     # Founded 1894
     flavored_company = yes
     building_types = {
