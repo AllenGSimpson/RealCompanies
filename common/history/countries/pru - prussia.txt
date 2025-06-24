@@ -42,10 +42,31 @@
 			add_ruling_interest_group = yes
 		}
 
-		add_company = company_type:company_krupp
-		company:company_krupp = {
-			set_company_establishment_date = 1807.1.1
-			set_company_state_region = s:STATE_WESTPHALIA
-		}
+                add_company = company_type:company_krupp
+                company:company_krupp = {
+                        set_company_establishment_date = 1807.1.1
+                        set_company_state_region = s:STATE_WESTPHALIA
+                }
+
+                add_company = company_type:company_friedrich_krupp_ag
+                company:company_friedrich_krupp_ag = {
+                        set_company_establishment_date = 1811.1.1
+                        set_company_state_region = s:STATE_RHINELAND
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_konigliche_porzellan_manufaktur_meissen
+                company:company_konigliche_porzellan_manufaktur_meissen = {
+                        set_company_establishment_date = 1710.1.1
+                        set_company_state_region = s:STATE_SAXONY
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_zanders_feinpapiere_ag
+                company:company_zanders_feinpapiere_ag = {
+                        set_company_establishment_date = 1829.1.1
+                        set_company_state_region = s:STATE_RHINELAND
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
 	}
 }
