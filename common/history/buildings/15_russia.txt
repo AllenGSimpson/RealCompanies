@@ -715,12 +715,29 @@
 					building={
 						type="building_textile_mills"
 						country="c:RUS"
-						levels=3
+						levels=1
 						region="STATE_MOSCOW"
+					}
+					company={
+						type=company_savva_morozov_and_sons
+						country="c:RUS"
+						levels=2
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_handsewn_clothes"  "pm_traditional_looms" "pm_craftsman_sewing" }
+			}
+			create_building={
+				building="building_arms_industry"
+				add_ownership={
+					company={
+						type=company_tula_arms_plant
+						country="c:RUS"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_muskets" "pm_automation_disabled"  }
 			}
 			create_building={
 				building="building_furniture_manufacturies"
@@ -1578,6 +1595,18 @@
 				}
 				reserves=1
 				activate_production_methods={ "pm_picks_and_shovels_building_iron_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts"  }
+			}
+			create_building={
+				building="building_arms_industry"
+				add_ownership={
+					company={
+						type=company_izhevsk_arms_plant
+						country="c:RUS"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_muskets" "pm_automation_disabled"  }
 			}
 			create_building={
 				building="building_logging_camp"

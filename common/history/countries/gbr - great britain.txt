@@ -97,47 +97,47 @@
 			set_company_state_region = s:STATE_HOME_COUNTIES
 			add_owned_country = c:HBC #links the country to this company
 		}
-                add_company = company_type:company_east_india_company
-                company:company_east_india_company = {
-                        set_company_establishment_date = 1600.12.31
-                        set_company_state_region = s:STATE_HOME_COUNTIES
-                        add_owned_country = c:BIC #links the country to this company
-                }
+		add_company = company_type:company_east_india_company
+		company:company_east_india_company = {
+				set_company_establishment_date = 1600.12.31
+				set_company_state_region = s:STATE_HOME_COUNTIES
+				add_owned_country = c:BIC #links the country to this company
+		}
 
-                add_company = company_type:company_arthur_guinness_son_and_co_ltd
-                company:company_arthur_guinness_son_and_co_ltd = {
-                        set_company_establishment_date = 1759.1.1
-                        set_company_state_region = s:STATE_LEINSTER
-                }
-                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+		add_company = company_type:company_arthur_guinness_son_and_co_ltd
+		company:company_arthur_guinness_son_and_co_ltd = {
+				set_company_establishment_date = 1759.1.1
+				set_company_state_region = s:STATE_LEINSTER
+		}
+		add_modifier = { name = rc_company_slot_bonus days = 36500 }
 
-                add_company = company_type:company_great_western_railway
-                company:company_great_western_railway = {
-                        set_company_establishment_date = 1833.1.1
-                        set_company_state_region = s:STATE_HOME_COUNTIES
-                }
-                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+		add_company = company_type:company_great_western_railway
+		company:company_great_western_railway = {
+				set_company_establishment_date = 1833.1.1
+				set_company_state_region = s:STATE_HOME_COUNTIES
+		}
+		add_modifier = { name = rc_company_slot_bonus days = 36500 }
 
-                add_company = company_type:company_jandp_coats
-                company:company_jandp_coats = {
-                        set_company_establishment_date = 1826.1.1
-                        set_company_state_region = s:STATE_LOWLANDS
-                }
-                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+		add_company = company_type:company_jandp_coats
+		company:company_jandp_coats = {
+				set_company_establishment_date = 1826.1.1
+				set_company_state_region = s:STATE_LOWLANDS
+		}
+		add_modifier = { name = rc_company_slot_bonus days = 36500 }
 
-                add_company = company_type:company_royal_small_arms_factory
-                company:company_royal_small_arms_factory = {
-                        set_company_establishment_date = 1816.1.1
-                        set_company_state_region = s:STATE_HOME_COUNTIES
-                }
-                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+		add_company = company_type:company_royal_small_arms_factory
+		company:company_royal_small_arms_factory = {
+				set_company_establishment_date = 1816.1.1
+				set_company_state_region = s:STATE_HOME_COUNTIES
+		}
+		add_modifier = { name = rc_company_slot_bonus days = 36500 }
 
-                add_company = company_type:company_webley_and_scott
-                company:company_webley_and_scott = {
-                        set_company_establishment_date = 1834.1.1
-                        set_company_state_region = s:STATE_MIDLANDS
-                }
-                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+		add_company = company_type:company_webley_and_scott
+		company:company_webley_and_scott = {
+				set_company_establishment_date = 1834.1.1
+				set_company_state_region = s:STATE_MIDLANDS
+		}
+		add_modifier = { name = rc_company_slot_bonus days = 36500 }
 
 	}
 }

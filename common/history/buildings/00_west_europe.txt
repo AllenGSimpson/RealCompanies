@@ -1094,7 +1094,8 @@
 			create_building={
 				building="building_railway"
 				add_ownership={
-					country={
+					company={
+						type=company_great_western_railway
 						country="c:GBR"
 						levels=2
 					}
@@ -1159,8 +1160,13 @@
 					building={
 						type="building_financial_district"
 						country="c:GBR"
-						levels=8
+						levels=4
 						region="STATE_HOME_COUNTIES"
+					}
+					company={
+						type=company_jandp_coats
+						country="c:GBR"
+						levels=4
 					}
 					building={
 						type="building_textile_mills"
@@ -1186,7 +1192,8 @@
 			create_building={
 				building="building_arms_industry"
 				add_ownership={
-					country={
+					company={
+						type=company_royal_small_arms_factory
 						country="c:GBR"
 						levels=4
 					}
@@ -1278,7 +1285,8 @@
 			create_building={
 				building="building_railway"
 				add_ownership={
-					country={
+					company={
+						type=company_great_western_railway
 						country="c:GBR"
 						levels=3
 					}
@@ -1575,11 +1583,10 @@
 			create_building={
 				building="building_railway"
 				add_ownership={
-					building={
-						type="building_financial_district"
+					company={
+						type=company_great_western_railway
 						country="c:GBR"
 						levels=4
-						region="STATE_YORKSHIRE"
 					}
 				}
 				reserves=1
@@ -1682,9 +1689,15 @@
 			create_building={
 				building="building_arms_industry"
 				add_ownership={
-					country={
+					company={
+						type=company_royal_small_arms_factory
 						country="c:GBR"
-						levels=3
+						levels=1
+					}
+					company={
+						type=company_webley_and_scott
+						country="c:GBR"
+						levels=2
 					}
 				}
 				reserves=1
@@ -1844,7 +1857,8 @@
 			create_building={
 				building="building_railway"
 				add_ownership={
-					country={
+					company={
+						type=company_great_western_railway
 						country="c:GBR"
 						levels=2
 					}
@@ -1926,7 +1940,12 @@
 				add_ownership={
 					country={
 						country="c:GBR"
-						levels=5
+						levels=2
+					}
+					company={
+						type=company_arthur_guinness_son_and_co_ltd
+						country="c:GBR"
+						levels=3
 					}
 				}
 				reserves=1
@@ -2035,7 +2054,8 @@
 			create_building={
 				building="building_railway"
 				add_ownership={
-					country={
+					company={
+						type=company_great_western_railway
 						country="c:GBR"
 						levels=1
 					}
@@ -2392,11 +2412,10 @@
 			create_building={
 				building="building_railway"
 				add_ownership={
-					building={
-						type="building_financial_district"
+					company={
+						type=company_great_western_railway
 						country="c:GBR"
 						levels=1
-						region="STATE_LOWLANDS"
 					}
 				}
 				reserves=1
@@ -2720,7 +2739,8 @@
 						levels=4
 						region="STATE_ILE_DE_FRANCE"
 					}
-					country={
+					company={
+						type=company_aussedat_rey
 						country="c:FRA"
 						levels=4
 					}
@@ -3072,11 +3092,10 @@
 						levels=3
 						region="STATE_LANGUEDOC"
 					}
-					building={
-						type="building_financial_district"
+					company={
+						type=company_saint_gobain
 						country="c:FRA"
 						levels=1
-						region="STATE_ILE_DE_FRANCE"
 					}
 				}
 				reserves=1
@@ -3415,11 +3434,10 @@
 						levels=6
 						region="STATE_FRENCH_LOW_COUNTRIES"
 					}
-					building={
-						type="building_financial_district"
+					company={
+						type=company_compagnie_des_mines_d_anzin
 						country="c:FRA"
 						levels=3
-						region="STATE_ILE_DE_FRANCE"
 					}
 				}
 				reserves=1
@@ -3590,7 +3608,7 @@
 				building="building_textile_mills"
 				add_ownership={
 					company={
-						type=company_dmc
+						type=company_dollfus_mieg_et_compagnie
 						country="c:FRA"
 						levels=5
 					}
@@ -3985,11 +4003,10 @@
 			create_building={
 				building="building_tooling_workshops"
 				add_ownership={
-					building={
-						type="building_tooling_workshops"
+					company={
+						type=company_peugeot
 						country="c:FRA"
 						levels=3
-						region="STATE_BURGUNDY"
 					}
 					building={
 						type="building_financial_district"
@@ -4397,8 +4414,13 @@
 					building={
 						type="building_financial_district"
 						country="c:FRA"
-						levels=2
+						levels=1
 						region="STATE_ORLEANS"
+					}
+					company={
+						type=company_saint_gobain
+						country="c:FRA"
+						levels=1
 					}
 				}
 				reserves=1
@@ -5232,6 +5254,18 @@
 				}
 				reserves=1
 				activate_production_methods={ "pm_religious_bureaucrats" "pm_hereditary_bureaucrats" "pm_horizontal_drawer_cabinets" }
+			}
+			create_building={
+				building="building_railway"
+				add_ownership={
+					company={
+						type=company_kaiserlich_koniglich_staatsbahnen
+						country="c:AUS"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_early_trains"  "pm_wooden_passenger_carriages" }
 			}
 			create_building={
 				building="building_construction_sector"
@@ -6143,7 +6177,7 @@
 				building="building_steel_mills"
 				add_ownership={
 					company={
-						type=company_krupp
+						type=company_friedrich_krupp_ag
 						country="c:PRU"
 						levels=2
 					}
@@ -6155,7 +6189,7 @@
 				building="building_arms_industry"
 				add_ownership={
 					company={
-						type=company_krupp
+						type=company_friedrich_krupp_ag
 						country="c:PRU"
 						levels=2
 					}
@@ -6167,7 +6201,7 @@
 				building="building_artillery_foundries"
 				add_ownership={
 					company={
-						type=company_krupp
+						type=company_friedrich_krupp_ag
 						country="c:PRU"
 						levels=1
 					}
@@ -6663,10 +6697,11 @@
 				building="building_paper_mills"
 				add_ownership={
 					building={
-						type="building_financial_district"
-						country="c:PRU"
-						levels=2
-						region="STATE_BRANDENBURG"
+						company={
+							type=company_zanders_feinpapiere_ag
+							country="c:PRU"
+							levels=1
+						}
 					}
 					country={
 						country="c:PRU"
@@ -7511,10 +7546,11 @@
 				building="building_glassworks"
 				add_ownership={
 					building={
-						type="building_glassworks"
-						country="c:SAX"
-						levels=2
-						region="STATE_SAXONY"
+						company={
+							type=company_konigliche_porzellan_manufaktur_meissen
+							country="c:PRU"
+							levels=1
+						}
 					}
 					building={
 						type="building_financial_district"

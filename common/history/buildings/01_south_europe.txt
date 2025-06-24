@@ -26,6 +26,18 @@
 				reserves=1
 			}
 			create_building={
+				building="building_arts_academy"
+				add_ownership={
+					company={
+						type=company_g_ricordi_and_c
+						country="c:AUS"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_traditional_art" }
+			}
+			create_building={
 				building="building_construction_sector"
 				add_ownership={
 					country={
@@ -64,7 +76,8 @@
 						levels=2
 						region="STATE_LOMBARDY"
 					}
-					country={
+					company={
+						type=company_beretta
 						country="c:AUS"
 						levels=3
 					}
@@ -1671,7 +1684,8 @@
 			create_building={
 				building="building_port"
 				add_ownership={
-					country={
+					company={
+						type=company_osterreichische_lloyd
 						country="c:AUS"
 						levels=3
 					}
@@ -3383,7 +3397,8 @@
 			create_building={
 				building="building_shipyards"
 				add_ownership={
-					country={
+					company={
+						type=company_tersanei_amire
 						country="c:TUR"
 						levels=2
 					}
@@ -3394,7 +3409,8 @@
 			create_building={
 				building="building_military_shipyards"
 				add_ownership={
-					country={
+					company={
+						type=company_tersanei_amire
 						country="c:TUR"
 						levels=2
 					}
