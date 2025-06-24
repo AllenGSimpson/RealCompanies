@@ -203,3 +203,7 @@
  company_basic_electrics_dynamic_name_tag_plural: "Elektrik Enerjisi"
  rc_company_slot_bonus: "Additional Company Slot"
  
+ company_foundings.1.t: "Colt Firearms Founded"
+ company_foundings.1.d: "Samuel Colt has established his firearms company in Connecticut, pioneering revolver production."
+ company_foundings.1.f: "\"God made men, but Samuel Colt made them equal.\""
+ company_foundings.1.a: "Excellent."
