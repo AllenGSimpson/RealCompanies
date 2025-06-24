@@ -53,10 +53,24 @@
 			is_decaying = yes
 		}
 		
-		add_company = company_type:company_william_cramp
-		company:company_william_cramp = {
-			set_company_establishment_date = 1830.1.1
-			set_company_state_region = s:STATE_PENNSYLVANIA
-		}
+                add_company = company_type:company_william_cramp
+                company:company_william_cramp = {
+                        set_company_establishment_date = 1830.1.1
+                        set_company_state_region = s:STATE_PENNSYLVANIA
+                }
+
+                add_company = company_type:company_baltimore_and_ohio_railroad
+                company:company_baltimore_and_ohio_railroad = {
+                        set_company_establishment_date = 1827.1.1
+                        set_company_state_region = s:STATE_MARYLAND
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_remington_arms
+                company:company_remington_arms = {
+                        set_company_establishment_date = 1816.1.1
+                        set_company_state_region = s:STATE_NEW_YORK
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
 	}
 }

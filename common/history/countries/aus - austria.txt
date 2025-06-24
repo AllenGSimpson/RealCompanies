@@ -40,12 +40,40 @@
 		ig:ig_armed_forces = {
 			add_ruling_interest_group = yes
 		}
-		ig:ig_intelligentsia = {
-			add_ruling_interest_group = yes
-		}
+                ig:ig_intelligentsia = {
+                        add_ruling_interest_group = yes
+                }
 
-		add_journal_entry = {
-			type = je_dual_monarchy
-		}
+                add_company = company_type:company_osterreichische_lloyd
+                company:company_osterreichische_lloyd = {
+                        set_company_establishment_date = 1833.1.1
+                        set_company_state_region = s:STATE_AUSTRIA
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_kaiserlich_koniglich_staatsbahnen
+                company:company_kaiserlich_koniglich_staatsbahnen = {
+                        set_company_establishment_date = 1810.1.1
+                        set_company_state_region = s:STATE_AUSTRIA
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_beretta
+                company:company_beretta = {
+                        set_company_establishment_date = 1526.1.1
+                        set_company_state_region = s:STATE_LOMBARDY
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_g_ricordi_and_c
+                company:company_g_ricordi_and_c = {
+                        set_company_establishment_date = 1808.1.1
+                        set_company_state_region = s:STATE_LOMBARDY
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_journal_entry = {
+                        type = je_dual_monarchy
+                }
 	}
 }

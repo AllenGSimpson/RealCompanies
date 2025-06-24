@@ -29,11 +29,32 @@
 			add_journal_entry = { type = je_caucasian_war }
 		}
 
-		add_company = company_type:company_russian_american_company
-		company:company_russian_american_company = {
-			set_company_establishment_date = 1799.7.8
-			set_company_state_region = s:STATE_INGRIA
-			add_owned_country = c:ALK
-		}
+                add_company = company_type:company_russian_american_company
+                company:company_russian_american_company = {
+                        set_company_establishment_date = 1799.7.8
+                        set_company_state_region = s:STATE_INGRIA
+                        add_owned_country = c:ALK
+                }
+
+                add_company = company_type:company_izhevsk_arms_plant
+                company:company_izhevsk_arms_plant = {
+                        set_company_establishment_date = 1807.1.1
+                        set_company_state_region = s:STATE_PERM
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_savva_morozov_and_sons
+                company:company_savva_morozov_and_sons = {
+                        set_company_establishment_date = 1823.1.1
+                        set_company_state_region = s:STATE_MOSCOW
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
+
+                add_company = company_type:company_tula_arms_plant
+                company:company_tula_arms_plant = {
+                        set_company_establishment_date = 1712.1.1
+                        set_company_state_region = s:STATE_MOSCOW
+                }
+                add_modifier = { name = rc_company_slot_bonus days = 36500 }
 	}
 }
