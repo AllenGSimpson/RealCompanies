@@ -9,20 +9,26 @@ company_foundings.1 = {
     flavor = company_foundings.1.f
 
     immediate = {
+        random_scope_state = {
+            limit = { is_state = s:STATE_CONNECTICUT }
+            save_scope_as = colt_state
+        }
         add_company = company_type:company_colt_s_patent_firearms_manufacturing_company
         company:company_colt_s_patent_firearms_manufacturing_company = {
             set_company_establishment_date = 1836.3.5
             set_company_state_region = s:STATE_CONNECTICUT
-        }
-        create_building = {
-            building = building_arms_industry
-            level = 1
         }
         add_modifier = { name = rc_company_slot_bonus days = 36500 }
     }
 
     option = {
         name = company_foundings.1.a
+        scope:colt_state = {
+            create_building = {
+                building = building_arms_industry
+                level = 1
+            }
+        }
         default_option = yes
     }
 }
