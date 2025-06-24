@@ -1,4 +1,4 @@
-# Škoda Works
+﻿# Škoda Works
 company_skoda_works = {
     icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
@@ -14,6 +14,15 @@ company_skoda_works = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # ČKD-Praha
@@ -31,6 +40,15 @@ company_ckd_praha = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Österreichische Lloyd
@@ -44,6 +62,15 @@ company_osterreichische_lloyd = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Österreichische Waffenfabrik-Gesellschaft
@@ -62,6 +89,15 @@ company_osterreichische_waffenfabrik_gesellschaft = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Austro-Daimler
@@ -75,6 +111,15 @@ company_austro_daimler = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Kaiserlich-königlich Staatsbahnen
@@ -87,6 +132,15 @@ company_kaiserlich_koniglich_staatsbahnen = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Creditanstalt
@@ -99,6 +153,15 @@ company_creditanstalt = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Fegyver-és Gépgyár
@@ -114,6 +177,15 @@ company_fegyver_es_gepgyar = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Galizisch-Karpathische Petroleum Aktien-Gesellschaft
@@ -131,6 +203,15 @@ company_galizisch_karpathische_petroleum_aktien_gesellschaft = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Ganz Művek
@@ -148,6 +229,15 @@ company_ganz_muvek = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Gebrüder Thonet
@@ -168,6 +258,15 @@ company_gebruder_thonet = {
     possible_prestige_goods = {
         prestige_good_bentwood_furniture
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Glasfabrik Ludwig Moser & Söhne
@@ -184,6 +283,15 @@ company_glasfabrik_ludwig_moser_and_sohne = {
         building_logging_camp
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # MÁVAG
@@ -203,6 +311,15 @@ company_mavag = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Manfréd Weiss Steel & Metal Works
@@ -220,6 +337,15 @@ company_manfred_weiss_steel_and_metal_works = {
         building_iron_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Österreichische Waffenfabriksgesellschaft
@@ -232,6 +358,15 @@ company_osterreichische_waffenfabriksgesellschaft = {
         building_arms_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Werndl & Co. Waffenfabrik und Sägemühle
@@ -245,6 +380,15 @@ company_werndl_and_co_waffenfabrik_und_sagemuhle = {
         building_logging_camp
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Air Liquide
@@ -260,6 +404,15 @@ company_air_liquide = {
         building_oil_rig
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Chantiers de l'Atlantique
@@ -277,6 +430,15 @@ company_chantiers_de_l_atlantique = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Citroën
@@ -290,6 +452,15 @@ company_citroen = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Compagnie des mines d'Anzin
@@ -307,6 +478,15 @@ company_compagnie_des_mines_d_anzin = {
         building_sulfur_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Confédération générale des vignerons
@@ -322,6 +502,15 @@ company_confederation_generale_des_vignerons = {
         building_food_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Compagnie Générale Transatlantique
@@ -337,6 +526,15 @@ company_compagnie_generale_transatlantique = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Compagnie Internationale des Wagons-Lits
@@ -352,6 +550,15 @@ company_compagnie_internationale_des_wagons_lits = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Crédit Lyonnais
@@ -364,6 +571,15 @@ company_credit_lyonnais = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Dollfus-Mieg et Compagnie
@@ -382,6 +598,15 @@ company_dollfus_mieg_et_compagnie = {
         building_silk_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Forges et Chantiers de la Méditerranée
@@ -401,6 +626,15 @@ company_forges_et_chantiers_de_la_mediterranee = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # L'Oréal
@@ -416,6 +650,15 @@ company_l_oreal = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Maison Worth
@@ -439,6 +682,15 @@ company_maison_worth = {
     possible_prestige_goods = {
         prestige_good_haute_couture
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Manufacture d'armes de Saint- tienne
@@ -457,6 +709,15 @@ company_manufacture_d_armes_de_saint_tienne = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Messageries Maritimes
@@ -472,6 +733,15 @@ company_messageries_maritimes = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Michelin
@@ -487,6 +757,15 @@ company_michelin = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Peugeot
@@ -503,6 +782,15 @@ company_peugeot = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Renault
@@ -516,6 +804,15 @@ company_renault = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Saint-Gobain
@@ -534,6 +831,15 @@ company_saint_gobain = {
         building_explosives_factory
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Schneider & Cie
@@ -553,6 +859,15 @@ company_schneider_and_cie = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Société Générale
@@ -565,6 +880,15 @@ company_societe_generale = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Société Mokta El Hadid
@@ -582,6 +906,15 @@ company_societe_mokta_el_hadid = {
     }
 
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Suez Canal Company
@@ -597,6 +930,15 @@ company_suez_canal_company = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Aussedat Rey
@@ -613,6 +955,15 @@ company_aussedat_rey = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Allgemeine Elektricitäts-Gesellschaft
@@ -629,6 +980,15 @@ company_allgemeine_elektricitats_gesellschaft = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # AG Vulcan Stettin
@@ -645,6 +1005,15 @@ company_ag_vulcan_stettin = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Allianz
@@ -657,6 +1026,15 @@ company_allianz = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Badische Anilin-und Sodafabrik
@@ -674,6 +1052,15 @@ company_badische_anilin_und_sodafabrik = {
         building_iron_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Bayer
@@ -690,6 +1077,15 @@ company_bayer = {
         building_opium_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Benz & Cie
@@ -703,6 +1099,15 @@ company_benz_and_cie = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Blohm & Voss
@@ -719,6 +1124,15 @@ company_blohm_and_voss = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Bayerische Motoren Werke
@@ -732,6 +1146,15 @@ company_bayerische_motoren_werke = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Carl Zeiss
@@ -744,6 +1167,15 @@ company_carl_zeiss = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Daimler Motoren-Gesellschaft
@@ -757,6 +1189,15 @@ company_daimler_motoren_gesellschaft = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Deutsche Bank
@@ -769,6 +1210,15 @@ company_deutsche_bank = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Friedrich Krupp AG
@@ -788,6 +1238,15 @@ company_friedrich_krupp_ag = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Hamburg-Amerikanische Packetfahrt-Actien-Gesellschaft
@@ -803,6 +1262,15 @@ company_hamburg_amerikanische_packetfahrt_actien_gesellschaft = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Interessen-Gemeinschaft (IG) Farben
@@ -823,6 +1291,15 @@ company_interessen_gemeinschaft_ig_farben = {
         building_opium_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Königliche Porzellan-Manufaktur Meissen
@@ -840,6 +1317,15 @@ company_konigliche_porzellan_manufaktur_meissen = {
     extension_building_types = {
         building_lead_mine
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Mannesmann
@@ -856,6 +1342,15 @@ company_mannesmann = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Mercedes-Benz
@@ -869,6 +1364,15 @@ company_mercedes_benz = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Norddeutscher Lloyd
@@ -884,6 +1388,15 @@ company_norddeutscher_lloyd = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Preußische Staatseisenbahnen
@@ -899,6 +1412,15 @@ company_preuische_staatseisenbahnen = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Rheinmetall
@@ -920,6 +1442,15 @@ company_rheinmetall = {
         building_lead_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Schichau-Werke
@@ -938,6 +1469,15 @@ company_schichau_werke = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Siemens & Halske
@@ -953,6 +1493,15 @@ company_siemens_and_halske = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Thyssen
@@ -970,6 +1519,15 @@ company_thyssen = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Zanders Feinpapiere AG
@@ -985,6 +1543,15 @@ company_zanders_feinpapiere_ag = {
         building_logging_camp
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Acciaierie di Terni
@@ -1002,6 +1569,15 @@ company_acciaierie_di_terni = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Anglo-Sicilian Sulphur Company Ltd.
@@ -1018,6 +1594,15 @@ company_anglo_sicilian_sulphur_company_ltd = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Gio. Ansaldo & C.
@@ -1036,6 +1621,15 @@ company_gio_ansaldo_and_c = {
         building_munition_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Barilla
@@ -1051,6 +1645,15 @@ company_barilla = {
         building_wheat_farm
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Beretta
@@ -1063,6 +1666,15 @@ company_beretta = {
         building_arms_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Breda
@@ -1079,6 +1691,15 @@ company_breda = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Campari
@@ -1091,6 +1712,15 @@ company_campari = {
         building_food_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Cantieri Riuniti dell'Adriatico
@@ -1107,6 +1737,15 @@ company_cantieri_riuniti_dell_adriatico = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # FIAT
@@ -1122,6 +1761,15 @@ company_fiat = {
     possible_prestige_goods = {
         prestige_good_turin_automobiles
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # G. Ricordi & C.
@@ -1137,6 +1785,15 @@ company_g_ricordi_and_c = {
         building_vineyard_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Acciaierie d'Italia S.p.A. (Ilva)
@@ -1154,6 +1811,15 @@ company_acciaierie_d_italia_s_p_a_ilva = {
         building_shipyards
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Mantero Serra
@@ -1170,6 +1836,15 @@ company_mantero_serra = {
         building_cotton_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Montecatini
@@ -1185,6 +1860,15 @@ company_montecatini = {
         building_synthetics_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Olivetti
@@ -1200,6 +1884,15 @@ company_olivetti = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Pirelli
@@ -1215,6 +1908,15 @@ company_pirelli = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Stabilimento Tecnico Triestino
@@ -1232,6 +1934,15 @@ company_stabilimento_tecnico_triestino = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Asahi Glass Company
@@ -1248,6 +1959,15 @@ company_asahi_glass_company = {
         building_lead_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Furukawa Zaibatsu
@@ -1264,6 +1984,15 @@ company_furukawa_zaibatsu = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Ishikawajima Shipyard
@@ -1280,6 +2009,15 @@ company_ishikawajima_shipyard = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Japan Steel Works
@@ -1297,6 +2035,15 @@ company_japan_steel_works = {
         building_arms_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Kawasaki Dockyard
@@ -1314,6 +2061,15 @@ company_kawasaki_dockyard = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Kinkōzan Sōbei
@@ -1335,6 +2091,15 @@ company_kinkozan_sobei = {
     possible_prestige_goods = {
         prestige_good_satsuma_ware
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Mitsubishi Zaibatsu
@@ -1359,6 +2124,15 @@ company_mitsubishi_zaibatsu = {
     possible_prestige_goods = {
         prestige_good_washi_paper
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Mitsui Zaibatsu
@@ -1383,6 +2157,15 @@ company_mitsui_zaibatsu = {
     possible_prestige_goods = {
         prestige_good_tomioka_silk
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Nippon Denki Kabushiki
@@ -1396,6 +2179,15 @@ company_nippon_denki_kabushiki = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Nippon Kōgaku Kōgyō (Nikk?)
@@ -1409,6 +2201,15 @@ company_nippon_kogaku_kogyo_nikk = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Nippon Yusen Kaisha
@@ -1424,6 +2225,15 @@ company_nippon_yusen_kaisha = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Oji Paper
@@ -1439,6 +2249,15 @@ company_oji_paper = {
         building_logging_camp
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Showa Denko
@@ -1455,6 +2274,15 @@ company_showa_denko = {
         building_oil_rig
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Minamimanshū Tetsudō
@@ -1474,6 +2302,15 @@ company_minamimanshu_tetsudo = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Sumitomo Zaibatsu
@@ -1492,6 +2329,15 @@ company_sumitomo_zaibatsu = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Toyota Jidō Shokki KK
@@ -1505,6 +2351,15 @@ company_toyota_jido_shokki_kk = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Toyota Zaibatsu
@@ -1523,6 +2378,15 @@ company_toyota_zaibatsu = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Yasuda Zaibatsu
@@ -1538,6 +2402,15 @@ company_yasuda_zaibatsu = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Yawata Steel Works
@@ -1555,6 +2428,15 @@ company_yawata_steel_works = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Osmanlı Anonim Elektrik Şirketi
@@ -1567,6 +2449,15 @@ company_osmanl_anonim_elektrik_sirketi = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Allatini Mills
@@ -1586,6 +2477,15 @@ company_allatini_mills = {
         building_maize_farm
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Anatolian Railway Company
@@ -1601,6 +2501,15 @@ company_anatolian_railway_company = {
         building_port
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Chemins de fer Orientaux
@@ -1616,6 +2525,15 @@ company_chemins_de_fer_orientaux = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Ottoman American Line
@@ -1631,6 +2549,15 @@ company_ottoman_american_line = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Osmanlı Bankası
@@ -1643,6 +2570,15 @@ company_osmanl_bankas = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Müşterek Menfaalı Tütün Rejisi
@@ -1658,6 +2594,15 @@ company_musterek_menfaal_tutun_rejisi = {
         building_opium_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Regie Co‑intéressée des Tabacs
@@ -1673,6 +2618,15 @@ company_regie_cointeressee_des_tabacs = {
         building_opium_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Tersâne‑i Âmire
@@ -1692,6 +2646,15 @@ company_tersanei_amire = {
         building_munition_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Turkish Petroleum Company
@@ -1707,6 +2670,15 @@ company_turkish_petroleum_company = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Zeytinburnu Foundry
@@ -1724,6 +2696,15 @@ company_zeytinburnu_foundry = {
         building_artillery_foundries
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Baltic Shipyard
@@ -1737,6 +2718,15 @@ company_baltic_shipyard = {
         building_shipyards
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Branobel
@@ -1757,6 +2747,15 @@ company_branobel = {
     possible_prestige_goods = {
         prestige_good_baku_oil
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Dobrolyot
@@ -1772,6 +2771,15 @@ company_dobrolyot = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Fabergé
@@ -1788,6 +2796,15 @@ company_faberge = {
         building_furniture_manufacturies
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Izhevsk Arms Plant
@@ -1805,6 +2822,15 @@ company_izhevsk_arms_plant = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Moscow Irrigation Company
@@ -1823,6 +2849,15 @@ company_moscow_irrigation_company = {
         building_opium_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # New Russia Company Ltd.
@@ -1840,6 +2875,15 @@ company_new_russia_company_ltd = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Obukhov Steel Works
@@ -1857,6 +2901,15 @@ company_obukhov_steel_works = {
         building_military_shipyards
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Putilov Works
@@ -1873,6 +2926,15 @@ company_putilov_works = {
         building_artillery_foundries
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Russian Steam Navigation Company (ROPiT)
@@ -1889,6 +2951,15 @@ company_russian_steam_navigation_company_ropit = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Russian-American Company
@@ -1914,6 +2985,15 @@ company_russian_american_company = {
     possible_prestige_goods = {
         prestige_good_generic_meat
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Russo-Baltic Wagon Works
@@ -1929,6 +3009,15 @@ company_russo_baltic_wagon_works = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Savva Morozov & Sons
@@ -1944,6 +3033,15 @@ company_savva_morozov_and_sons = {
         building_cotton_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # State Bank of The Russian Empire
@@ -1956,6 +3054,15 @@ company_state_bank_of_the_russian_empire = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Tula Arms Plant
@@ -1972,6 +3079,15 @@ company_tula_arms_plant = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # PA Smirnov
@@ -1989,6 +3105,15 @@ company_pa_smirnov = {
         building_wheat_farm
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Armstrong Whitworth
@@ -2011,6 +3136,15 @@ company_armstrong_whitworth = {
     possible_prestige_goods = {
         prestige_good_armstrong_ships
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Arthur Guinness Son & Co. Ltd.
@@ -2029,6 +3163,15 @@ company_arthur_guinness_son_and_co_ltd = {
     possible_prestige_goods = {
         prestige_good_generic_groceries
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Birmingham Small Arms (BSA)
@@ -2045,6 +3188,15 @@ company_birmingham_small_arms_bsa = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Bolckow Vaughan & Co.
@@ -2062,6 +3214,15 @@ company_bolckow_vaughan_and_co = {
         building_lead_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Cunard Line
@@ -2077,6 +3238,15 @@ company_cunard_line = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # de Havilland Aircraft
@@ -2092,6 +3262,15 @@ company_de_havilland_aircraft = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Great Western Railway
@@ -2109,6 +3288,15 @@ company_great_western_railway = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Harland & Wolff
@@ -2126,6 +3314,15 @@ company_harland_and_wolff = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Imperial Chemical Industries
@@ -2142,6 +3339,15 @@ company_imperial_chemical_industries = {
         building_synthetics_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # J&P Coats
@@ -2158,6 +3364,15 @@ company_jandp_coats = {
         building_silk_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # John Brown & Co.
@@ -2175,6 +3390,15 @@ company_john_brown_and_co = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Maple & Co.
@@ -2195,6 +3419,15 @@ company_maple_and_co = {
     possible_prestige_goods = {
         prestige_good_english_upholstery
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # P&O Steam Navigation
@@ -2210,6 +3443,15 @@ company_pando_steam_navigation = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Rolls‑Royce
@@ -2225,6 +3467,15 @@ company_rollsroyce = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Royal Small Arms Factory
@@ -2238,6 +3489,15 @@ company_royal_small_arms_factory = {
         building_munition_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Shell Transport & Trading
@@ -2255,6 +3515,15 @@ company_shell_transport_and_trading = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Vickers Ltd.
@@ -2274,6 +3543,15 @@ company_vickers_ltd = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Webley & Scott
@@ -2286,6 +3564,15 @@ company_webley_and_scott = {
         building_arms_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Anaconda Copper Mining
@@ -2302,6 +3589,15 @@ company_anaconda_copper_mining = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Armour & Company
@@ -2317,6 +3613,15 @@ company_armour_and_company = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Bell Telephone Company
@@ -2329,6 +3634,15 @@ company_bell_telephone_company = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Baltimore & Ohio Railroad
@@ -2344,6 +3658,15 @@ company_baltimore_and_ohio_railroad = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Boeing Airplane Company
@@ -2360,6 +3683,15 @@ company_boeing_airplane_company = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Cargill
@@ -2380,6 +3712,15 @@ company_cargill = {
         building_port
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Carnegie Steel Company
@@ -2397,6 +3738,15 @@ company_carnegie_steel_company = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Jones and Laughlin Steel Company
@@ -2413,6 +3763,15 @@ company_jones_and_laughlin_steel_company = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Pittsburgh Bessemer Steel Company
@@ -2425,6 +3784,15 @@ company_pittsburgh_bessemer_steel_company = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Illinois Steel Company (Federal Steel)
@@ -2437,6 +3805,15 @@ company_illinois_steel_company_federal_steel = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # National Steel Company
@@ -2449,6 +3826,15 @@ company_national_steel_company = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Weirton Steel Corporation
@@ -2461,6 +3847,15 @@ company_weirton_steel_corporation = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # National Steel Corporation
@@ -2473,6 +3868,15 @@ company_national_steel_corporation = {
         building_steel_mills
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Caterpillar
@@ -2490,6 +3894,15 @@ company_caterpillar = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Colt's Patent Firearms Manufacturing Company
@@ -2502,6 +3915,15 @@ company_colt_s_patent_firearms_manufacturing_company = {
         building_arms_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # DuPont de Nemours, Inc
@@ -2518,6 +3940,15 @@ company_dupont_de_nemours_inc = {
         building_munition_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Ford Motor Company
@@ -2534,6 +3965,15 @@ company_ford_motor_company = {
         building_rubber_plantation
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # General Electric
@@ -2554,6 +3994,15 @@ company_general_electric = {
     possible_prestige_goods = {
         prestige_good_radiola_radios
     }
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # General Mills
@@ -2570,6 +4019,15 @@ company_general_mills = {
         building_trade_center
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # General Motors
@@ -2585,6 +4043,15 @@ company_general_motors = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Computing-Tabulating-Recording Company (IBM)
@@ -2597,6 +4064,15 @@ company_computing_tabulating_recording_company_ibm = {
         building_electrics_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # International Paper
@@ -2612,6 +4088,15 @@ company_international_paper = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Kellogg Company
@@ -2624,6 +4109,15 @@ company_kellogg_company = {
         building_food_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Lee Wilson & Company
@@ -2641,6 +4135,15 @@ company_lee_wilson_and_company = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Pennsylvania Railroad
@@ -2656,6 +4159,15 @@ company_pennsylvania_railroad = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Procter & Gamble
@@ -2671,6 +4183,15 @@ company_procter_and_gamble = {
         building_food_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Pullman Company
@@ -2686,6 +4207,15 @@ company_pullman_company = {
         building_automotive_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Remington Arms
@@ -2701,6 +4231,15 @@ company_remington_arms = {
         building_tooling_workshops
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Standard Oil Company
@@ -2716,6 +4255,15 @@ company_standard_oil_company = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Swift & Company
@@ -2731,6 +4279,15 @@ company_swift_and_company = {
         building_chemical_plants
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # United Fruit Company
@@ -2747,6 +4304,15 @@ company_united_fruit_company = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # United States Steel
@@ -2762,6 +4328,15 @@ company_united_states_steel = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Westinghouse Electric
@@ -2777,6 +4352,15 @@ company_westinghouse_electric = {
         building_motor_industry
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Weyerhaeuser
@@ -2793,6 +4377,15 @@ company_weyerhaeuser = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # William Cramp & Sons
@@ -2810,6 +4403,15 @@ company_william_cramp_and_sons = {
         building_artillery_foundries
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Hammermill Paper Company
@@ -2825,6 +4427,15 @@ company_hammermill_paper_company = {
         building_logging_camp
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Champion Coated Paper Co.
@@ -2840,6 +4451,15 @@ company_champion_coated_paper_co = {
         building_logging_camp
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Consolidated Edison
@@ -2855,6 +4475,15 @@ company_consolidated_edison = {
         building_oil_rig
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Pacific Gas & Electric (PG&E)
@@ -2870,6 +4499,15 @@ company_pacific_gas_and_electric_pgande = {
         building_oil_rig
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Commonwealth Edison
@@ -2882,6 +4520,15 @@ company_commonwealth_edison = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Duke Power (Southern Power Co.)
@@ -2894,6 +4541,15 @@ company_duke_power_southern_power_co = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # London Power Company
@@ -2906,6 +4562,15 @@ company_london_power_company = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # North Eastern Electric Supply (NESCo)
@@ -2921,6 +4586,15 @@ company_north_eastern_electric_supply_nesco = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Compagnie Parisienne de Distribution d’Électricité (CPDE)
@@ -2933,6 +4607,15 @@ company_compagnie_parisienne_de_distribution_delectricite_cpde = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Société Lyonnaise des Forces Motrices du Rhône
@@ -2945,6 +4628,15 @@ company_societe_lyonnaise_des_forces_motrices_du_rhone = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # RWE (Rheinisch‑Westfälisches Elektrizitätswerk)
@@ -2960,6 +4652,15 @@ company_rwe_rheinischwestfalisches_elektrizitatswerk = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # PreussenElektra
@@ -2975,6 +4676,15 @@ company_preussenelektra = {
         building_coal_mine
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # St Petersburg Electric Lighting Company
@@ -2987,6 +4697,15 @@ company_st_petersburg_electric_lighting_company = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Moscow Electric Lighting Company
@@ -3002,6 +4721,15 @@ company_moscow_electric_lighting_company = {
         building_railway
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Tokyo Electric Light Company
@@ -3014,6 +4742,15 @@ company_tokyo_electric_light_company = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Osaka Electric Light Company
@@ -3026,6 +4763,15 @@ company_osaka_electric_light_company = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Edison volta (Società Edison)
@@ -3038,6 +4784,15 @@ company_edison_volta_societa_edison = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # SADE (Società Adriatica di Elettricità)
@@ -3053,6 +4808,15 @@ company_sade_societa_adriatica_di_elettricita = {
         building_port
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Ungarische Allgemeine Elektrizitäts‑Gesellschaft
@@ -3065,6 +4829,15 @@ company_ungarische_allgemeine_elektrizitatsgesellschaft = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Steirische Wasserkraft‑ u. Elektrizitäts‑Gesellschaft (STEWAG)
@@ -3077,6 +4850,15 @@ company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Ottoman Electric Company
@@ -3089,6 +4871,15 @@ company_ottoman_electric_company = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
 # Société d’Électro‑Ottomane
@@ -3101,5 +4892,14 @@ company_societe_delectroottomane = {
         building_power_plant
     }
     # TODO: Add prestige goods
+    potential = {
+		always = no
+	}
+    attainable = {
+		always = no
+	}
+	possible = { 
+		always = no
+	}
 }
 
