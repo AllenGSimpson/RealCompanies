@@ -201,6 +201,5 @@ l_japanese:
  company_societe_delectroottomane: "ソシエテ・デレクトロ＝オスマネ"
  company_basic_electrics_dynamic_name_tag_singular: "電力"
  company_basic_electrics_dynamic_name_tag_plural: "電力"
-
-  modifier_rc_company_slot_bonus: "Additional Company Slot"
-  modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."
+ modifier_rc_company_slot_bonus: "Additional Company Slot"
+ modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."

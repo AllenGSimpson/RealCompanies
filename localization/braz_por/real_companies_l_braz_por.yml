@@ -1,4 +1,4 @@
-l_braz_por:
+﻿l_braz_por:
  company_skoda_works: "Škoda Works"
  company_ckd_praha: "ČKD-Praha"
  company_osterreichische_lloyd: "Österreichische Lloyd"
@@ -198,8 +198,8 @@ l_braz_por:
  company_ungarische_allgemeine_elektrizitatsgesellschaft: "Ungarische Allgemeine Elektrizitäts‑Gesellschaft"
  company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag: "Steirische Wasserkraft‑ u. Elektrizitäts‑Gesellschaft (STEWAG)"
  company_ottoman_electric_company: "Ottoman Electric Company"
-company_societe_delectroottomane: "Société d’Électro‑Ottomane"
+ company_societe_delectroottomane: "Société d’Électro‑Ottomane"
  company_basic_electrics_dynamic_name_tag_singular: "Energia Elétrica"
  company_basic_electrics_dynamic_name_tag_plural: "Energia Elétrica"
-  modifier_rc_company_slot_bonus: "Additional Company Slot"
-  modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."
+ modifier_rc_company_slot_bonus: "Additional Company Slot"
+ modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."

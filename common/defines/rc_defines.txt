@@ -1,4 +1,4 @@
-NEconomy = {
+﻿NEconomy = {
 	COMPANY_OVER_LIMIT_BONUS_PENALTY_MIN = 0.33			# If the number of companies in the country exceeds the limit, all company bonuses get penalty. The penalty is scaled proportionally to the limit (exceeding the limit by 100% reduces bonuses by 100%) and the minimum value is this
 	COMPANY_PRODUCTIVITY_RATIO_HIGH_THRESHOLD = 1.25	# Companies whose productivity exceeds this factor of the global average will be considered high-productivity companies
 	COMPANY_PRODUCTIVITY_RATIO_LOW_THRESHOLD = 0.75		# Companies whose productivity is below this factor of the global average will be considered low-productivity companies

@@ -1,4 +1,4 @@
-l_russian:
+﻿l_russian:
  company_skoda_works: "Скода Воркс"
  company_ckd_praha: "Ккд-Праха"
  company_osterreichische_lloyd: "Остерреичище Ллоыд"
@@ -198,8 +198,8 @@ l_russian:
  company_ungarische_allgemeine_elektrizitatsgesellschaft: "Унгарище Аллгемеине Електризитацгеселлщафт"
  company_steirische_wasserkraft_u_elektrizitatsgesellschaft_stewag: "Стеирище Вассеркрафт У. Електризитацгеселлщафт (Стеваг)"
  company_ottoman_electric_company: "Оттоман Електрик Компаны"
-company_societe_delectroottomane: "Сокиете Делектрооттомане"
+ company_societe_delectroottomane: "Сокиете Делектрооттомане"
  company_basic_electrics_dynamic_name_tag_singular: "электроэнергии"
  company_basic_electrics_dynamic_name_tag_plural: "электроэнергия"
-  modifier_rc_company_slot_bonus: "Additional Company Slot"
-  modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."
+ modifier_rc_company_slot_bonus: "Additional Company Slot"
+ modifier_rc_company_slot_bonus_desc: "This country temporarily gains an extra company slot."
