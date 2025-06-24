@@ -1,0 +1,5 @@
+on_game_started_after_lobby = {
+    effect = {
+        c:USA = { trigger_event = { id = company_foundings.1 days = 64 } }
+    }
+}

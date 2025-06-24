@@ -1,0 +1,28 @@
+namespace = company_foundings
+
+# Colt Firearms Founded
+company_foundings.1 = {
+    type = country_event
+    placement = ROOT
+    title = company_foundings.1.t
+    desc = company_foundings.1.d
+    flavor = company_foundings.1.f
+
+    immediate = {
+        add_company = company_type:company_colt_s_patent_firearms_manufacturing_company
+        company:company_colt_s_patent_firearms_manufacturing_company = {
+            set_company_establishment_date = 1836.3.5
+            set_company_state_region = s:STATE_CONNECTICUT
+        }
+        create_building = {
+            building = building_arms_industry
+            level = 1
+        }
+        add_modifier = { name = rc_company_slot_bonus days = 36500 }
+    }
+
+    option = {
+        name = company_foundings.1.a
+        default_option = yes
+    }
+}
