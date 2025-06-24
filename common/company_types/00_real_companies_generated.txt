@@ -1223,8 +1223,8 @@ company_deutsche_bank = {
 
 # Friedrich Krupp AG
 company_friedrich_krupp_ag = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
-    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/german_krupp.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1811
     flavored_company = yes
     building_types = {
@@ -1607,8 +1607,8 @@ company_anglo_sicilian_sulphur_company_ltd = {
 
 # Gio. Ansaldo & C.
 company_gio_ansaldo_and_c = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
-    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/ansaldo.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1853
     flavored_company = yes
     building_types = {
@@ -2104,8 +2104,8 @@ company_kinkozan_sobei = {
 
 # Mitsubishi Zaibatsu
 company_mitsubishi_zaibatsu = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
-    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/japanese_mitsubishi.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1870
     flavored_company = yes
     building_types = {
@@ -2137,8 +2137,8 @@ company_mitsubishi_zaibatsu = {
 
 # Mitsui Zaibatsu
 company_mitsui_zaibatsu = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
-    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/japanese_mitsui.dds"
+    background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
     # Founded 1876
     flavored_company = yes
     building_types = {
