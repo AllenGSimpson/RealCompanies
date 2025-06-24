@@ -152,7 +152,7 @@ company_ganz_muvek = {
 
 # Gebrüder Thonet
 company_gebruder_thonet = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/company_gebruder_thonet.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
     # Founded 1853
     flavored_company = yes
@@ -420,7 +420,7 @@ company_l_oreal = {
 
 # Maison Worth
 company_maison_worth = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/company_maison_worth.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
     # Founded 1858
     flavored_company = yes
@@ -569,7 +569,7 @@ company_societe_generale = {
 
 # Société Mokta El Hadid
 company_societe_mokta_el_hadid = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/france_société_mokta_el_hadid.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
     # Founded 1865
     flavored_company = yes
@@ -827,7 +827,7 @@ company_interessen_gemeinschaft_ig_farben = {
 
 # Königliche Porzellan-Manufaktur Meissen
 company_konigliche_porzellan_manufaktur_meissen = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/company_konigliche_porzellan_manufaktur_meissen.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
     # Founded 1710
     flavored_company = yes
@@ -903,7 +903,7 @@ company_preuische_staatseisenbahnen = {
 
 # Rheinmetall
 company_rheinmetall = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/german_rheinmetall.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
     # Founded 1889
     flavored_company = yes
@@ -942,7 +942,7 @@ company_schichau_werke = {
 
 # Siemens & Halske
 company_siemens_and_halske = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/german_siemens_halske.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1847
     flavored_company = yes
@@ -1111,7 +1111,7 @@ company_cantieri_riuniti_dell_adriatico = {
 
 # FIAT
 company_fiat = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/fiat.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1899
     flavored_company = yes
@@ -1318,7 +1318,7 @@ company_kawasaki_dockyard = {
 
 # Kinkōzan Sōbei
 company_kinkozan_sobei = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/company_kinkozan_sobei.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
     # Founded 1645
     flavored_company = yes
@@ -1571,7 +1571,7 @@ company_osmanl_anonim_elektrik_sirketi = {
 
 # Allatini Mills
 company_allatini_mills = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/allatini_mills.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_farm_wheat.dds"
     # Founded 1840
     flavored_company = yes
@@ -1741,7 +1741,7 @@ company_baltic_shipyard = {
 
 # Branobel
 company_branobel = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/russian_branobel.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_oil_drills.dds"
     # Founded 1876
     flavored_company = yes
@@ -1792,7 +1792,7 @@ company_faberge = {
 
 # Izhevsk Arms Plant
 company_izhevsk_arms_plant = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/russian_izhevsk_arms_plant.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_heavy.dds"
     # Founded 1807
     flavored_company = yes
@@ -1809,7 +1809,7 @@ company_izhevsk_arms_plant = {
 
 # Moscow Irrigation Company
 company_moscow_irrigation_company = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/historical_moscow_irrigation_company.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_plantation.dds"
     # Founded 1865
     flavored_company = yes
@@ -1893,7 +1893,7 @@ company_russian_steam_navigation_company_ropit = {
 
 # Russian-American Company
 company_russian_american_company = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/company_russian_american_company.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_mining.dds"
     # Founded 1799
     flavored_company = yes
@@ -1993,7 +1993,7 @@ company_pa_smirnov = {
 
 # Armstrong Whitworth
 company_armstrong_whitworth = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/gb_armstrong_whitworth.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_harbor_shipbuilding.dds"
     # Founded 1897
     flavored_company = yes
@@ -2179,7 +2179,7 @@ company_john_brown_and_co = {
 
 # Maple & Co.
 company_maple_and_co = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/company_maple_and_co.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
     # Founded 1841
     flavored_company = yes
@@ -2538,7 +2538,7 @@ company_ford_motor_company = {
 
 # General Electric
 company_general_electric = {
-    icon = "gfx/interface/icons/company_icons/custom_companies_placeholder.dds"
+    icon = "gfx/interface/icons/company_icons/historical_company_icons/american_general_electric.dds"
     background = "gfx/interface/icons/company_icons/company_backgrounds/comp_illu_manufacturing_light.dds"
     # Founded 1892
     flavored_company = yes
